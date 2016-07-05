@@ -3,12 +3,12 @@
 ## Deep Learning
 ###Algorithm
 - CNN
-- GoogLe Net ( using InceptionV3 )
+  - GoogLe Net ( using InceptionV3 )
 
-###Recurrent Network
-- LSTM
-- RLU
-- E2E ( end to end Memory )
+- Recurrent Network
+  - LSTM
+  - RLU
+  - E2E ( end to end Memory )
 
 ###Lecture
 - sung kim - https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
