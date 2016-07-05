@@ -11,7 +11,7 @@
 
 ###Lecture
 - sung kim - https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
-- CS231n: Convolutional Neural Networks for Visual Recognition / Video : https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
+- CS231n: [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) / [Video](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 - Kmooc :
   - 경영데이터 마이닝 : http://www.kmooc.kr/courses/course-v1:HYUk+HYUBUS3099k+2016_C1/info
   - 인공지능과 기계학습 : http://www.kmooc.kr/courses/course-v1:KAISTk+KCS470+2015_K0201/info
@@ -34,9 +34,9 @@
 - Gym
 
 ###Lecture
-- CS188
+- [CS188](https://www.youtube.com/user/CS188Spring2013)
 - David Sliver (Deep Mind)
-- John Schulman
+- [John Schulman](https://www.youtube.com/watch?v=aUrX-rP_ss4&index=1&list=PLUdqnrHmtdXQuivfwPyEKi3y5eQJqo1c4)
 - Udacity - Reinforcement Learning
 - GP By karpathy - http://karpathy.github.io/2016/05/31/rl/
 
