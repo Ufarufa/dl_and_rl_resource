@@ -4,6 +4,7 @@
 ###Algorithm
 - CNN
 - GoogLe Net ( using InceptionV3 )
+
 ###Recurrent Network
 - LSTM
 - RLU
