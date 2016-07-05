@@ -1,4 +1,4 @@
-# dl_and_rl_resource
+# 딥러닝 & 강화 학습 관련 자료들.
 
 ## Deep Learning
 ###Algorithm
