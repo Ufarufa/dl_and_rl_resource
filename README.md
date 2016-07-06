@@ -19,6 +19,7 @@
  
 ###Papers
 - A New Method to Visualize Deep Neural Networks( Deep NN  시각화 ) -  http://arxiv.org/abs/1603.02518v2
+- Deep Speech 2(음성인식) - https://arxiv.org/abs/1512.02595
  
 ###구현 
 - deep-learning-for-chatbots : http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/
