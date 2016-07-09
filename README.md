@@ -43,6 +43,7 @@
 - [John Schulman](https://www.youtube.com/watch?v=aUrX-rP_ss4&index=1&list=PLUdqnrHmtdXQuivfwPyEKi3y5eQJqo1c4)
 - Udacity - Reinforcement Learning
 - GP By karpathy - http://karpathy.github.io/2016/05/31/rl/
+- [Replicating Deep Q Learning with TensorFlow - 한국어](https://www.youtube.com/watch?v=suNNrEHDR-I)
 
 ###Paper
 - DeepMind Papers : https://deepmind.com/publications.html
@@ -51,5 +52,6 @@
 - Play FlappyBird( DQN imp ) - http://sarvagyavaish.github.io/FlappyBirdRL/
 
 ###관련 Github
-- https://github.com/carpedm20/deep-rl-tensorflow
+- [딥러닝 논문 구현-By Carpedm20](https://github.com/carpedm20/deep-rl-tensorflow)
+- [자료 모음-홍상진](https://github.com/sangjinhong/deep_learning)
  
