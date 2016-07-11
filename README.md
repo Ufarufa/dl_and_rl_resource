@@ -39,6 +39,7 @@
 
 ###Lecture
 - [CS188 2013](https://www.youtube.com/user/CS188Spring2013)
+- [CS188 2014](https://www.youtube.com/watch?v=IXuHxkpO5E8)
 - [CS188 2016](https://www.youtube.com/watch?v=3aCn2-Slaoc&list=PLIeooNSdhQE5kRrB71yu5yP9BRCJCSbMt)
 - David Sliver (Deep Mind)
 - [John Schulman](https://www.youtube.com/watch?v=aUrX-rP_ss4&index=1&list=PLUdqnrHmtdXQuivfwPyEKi3y5eQJqo1c4)
