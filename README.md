@@ -47,6 +47,7 @@
 - GP By karpathy - http://karpathy.github.io/2016/05/31/rl/
 - [Replicating Deep Q Learning with TensorFlow - 한국어](https://www.youtube.com/watch?v=suNNrEHDR-I)
 - [Open Ai 분석-모두의 연구소](http://www.modulabs.co.kr/RL_library/2621)
+- [sutton book 2015 ](https://www.dropbox.com/s/b3psxv2r0ccmf80/book2015oct.pdf?dl=0)
 
 ###Paper
 - DeepMind Papers : https://deepmind.com/publications.html
