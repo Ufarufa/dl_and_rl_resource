@@ -9,6 +9,7 @@
   - LSTM
   - RLU
   - E2E ( end to end Memory )
+  - [generative-models](https://openai.com/blog/generative-models/)
 
 ###Lecture
 - sung kim - https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
