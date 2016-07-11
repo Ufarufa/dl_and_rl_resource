@@ -39,17 +39,21 @@
 - OO-MDP (Object-oriented Markov Decision Process)
 - Gym
 
-###Lecture
+###Lecture & Books
 - [CS188 2013](https://www.youtube.com/user/CS188Spring2013)
 - [CS188 2014](https://www.youtube.com/watch?v=IXuHxkpO5E8)
 - [CS188 2016](https://www.youtube.com/watch?v=3aCn2-Slaoc&list=PLIeooNSdhQE5kRrB71yu5yP9BRCJCSbMt)
 - David Sliver (Deep Mind)
 - [John Schulman](https://www.youtube.com/watch?v=aUrX-rP_ss4&index=1&list=PLUdqnrHmtdXQuivfwPyEKi3y5eQJqo1c4)
 - Udacity - Reinforcement Learning
-- GP By karpathy - http://karpathy.github.io/2016/05/31/rl/
-- [Replicating Deep Q Learning with TensorFlow - 한국어](https://www.youtube.com/watch?v=suNNrEHDR-I)
-- [Open Ai 분석-모두의 연구소](http://www.modulabs.co.kr/RL_library/2621)
 - [sutton book 2015 ](https://www.dropbox.com/s/b3psxv2r0ccmf80/book2015oct.pdf?dl=0)
+
+### Posting
+- [Deep Mind blog](https://deepmind.com/blog)
+- [Open Ai 분석-모두의 연구소](http://www.modulabs.co.kr/RL_library/2621)
+- [Replicating Deep Q Learning with TensorFlow - 한국어](https://www.youtube.com/watch?v=suNNrEHDR-I)]
+- GP By karpathy - http://karpathy.github.io/2016/05/31/rl/
+
 
 ###Paper
 - DeepMind Papers : https://deepmind.com/publications.html
