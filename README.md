@@ -61,7 +61,8 @@
 - Playing Atari : Playing Atari with Deep Reinforcement Learning(DQN) - http://arxiv.org/abs/1312.5602
 - Play FlappyBird( DQN imp ) - http://sarvagyavaish.github.io/FlappyBirdRL/
 - [Dueling Network Architectures for Deep Reinforcement Learning](http://arxiv.org/pdf/1511.06581v3.pdf)
-- [Early Visual Concept Learning with Unsupervised Deep Learning](https://arxiv.org/pdf/1606.05579.pdf)
+- [DeepMind-Early Visual Concept Learning with Unsupervised Deep Learning](https://arxiv.org/pdf/1606.05579.pdf)
+- [DeepMind-Conditional Image Generation with PixelCNN Decoders](https://arxiv.org/pdf/1606.05579.pdf)
 
 ###관련 Github
 - [딥러닝 논문 구현-By Carpedm20](https://github.com/carpedm20/deep-rl-tensorflow)
