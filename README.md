@@ -55,6 +55,7 @@
 - [Open Ai 분석-모두의 연구소](http://www.modulabs.co.kr/RL_library/2621)
 - [Replicating Deep Q Learning with TensorFlow - 한국어](https://www.youtube.com/watch?v=suNNrEHDR-I)
 - GP By karpathy - http://karpathy.github.io/2016/05/31/rl/
+- [Deep Reinforcement Learning: Frontiers and Challenges, IJCAI 2016](https://sites.google.com/site/deeprlijcai16/programme)
 
 
 ###Paper
