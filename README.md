@@ -24,6 +24,7 @@
 - Deep Speech 2(음성인식) - https://arxiv.org/abs/1512.02595
 - [Google Magenta(작곡 딥러닝)](https://tensorflowkorea.wordpress.com/2016/07/11/magentas-paper-reviews/)
 - [Bag of Tricks for Efficient Text Classification-CPU가 더 빠른.](https://arxiv.org/pdf/1607.01759v2.pdf)
+- [Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding](https://arxiv.org/abs/1606.01847)
  
 ###구현 
 - deep-learning-for-chatbots : http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/
