@@ -18,6 +18,7 @@
   - 경영데이터 마이닝 : http://www.kmooc.kr/courses/course-v1:HYUk+HYUBUS3099k+2016_C1/info
   - 인공지능과 기계학습 : http://www.kmooc.kr/courses/course-v1:KAISTk+KCS470+2015_K0201/info
 - [Deep Generative Models](https://portal.klewel.com/watch/webcast/deep-learning-tools-and-methods-workshop/talk/6)
+- [ICML’15](http://dpkingma.com/?page_id=483)
  
 ###Papers
 - A New Method to Visualize Deep Neural Networks( Deep NN  시각화 ) -  http://arxiv.org/abs/1603.02518v2
@@ -49,6 +50,7 @@
 - [John Schulman](https://www.youtube.com/watch?v=aUrX-rP_ss4&index=1&list=PLUdqnrHmtdXQuivfwPyEKi3y5eQJqo1c4)
 - Udacity - Reinforcement Learning
 - [sutton book 2015 ](https://www.dropbox.com/s/b3psxv2r0ccmf80/book2015oct.pdf?dl=0)
+
 
 ### Posting
 - [Deep Mind blog](https://deepmind.com/blog)
