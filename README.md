@@ -58,7 +58,10 @@
 - [Deep Reinforcement Learning: Frontiers and Challenges, IJCAI 2016](https://sites.google.com/site/deeprlijcai16/programme)
 - [dueling_dqn](http://torch.ch/blog/2016/04/30/dueling_dqn.html)
 - [torch blog](http://torch.ch/blog/index.html)
-- [ Demystifying Deep Reinforcement Learning](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/?utm_content=buffer40acb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- Reinforment L 
+  - [1. Demystifying Deep Reinforcement Learning](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
+  - [2. deep-reinforcement-learning-with-neon](https://www.nervanasys.com/deep-reinforcement-learning-with-neon/)
+  - [3. Deep Reinforcement Learning with OpenAI Gym](https://www.nervanasys.com/openai/)
 
 
 ###Paper
