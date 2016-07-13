@@ -85,3 +85,4 @@
 - https://twitter.com/DeepMindAI
 - https://twitter.com/demishassabis
 - https://twitter.com/OpenAI 
+- https://twitter.com/DeepLearningHub
