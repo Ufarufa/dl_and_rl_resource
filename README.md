@@ -57,6 +57,7 @@
 - [GP By karpathy](http://karpathy.github.io/2016/05/31/rl/)
 - [Deep Reinforcement Learning: Frontiers and Challenges, IJCAI 2016](https://sites.google.com/site/deeprlijcai16/programme)
 - [dueling_dqn](http://torch.ch/blog/2016/04/30/dueling_dqn.html)
+- [torch blog](http://torch.ch/blog/index.html)
 
 
 ###Paper
