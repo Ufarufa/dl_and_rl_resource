@@ -12,7 +12,7 @@
   - [generative-models](https://openai.com/blog/generative-models/)
   
 ###Project
-- magenta 
+- Magenta 
   - [Google Magenta(작곡 딥러닝)](https://tensorflowkorea.wordpress.com/2016/07/11/magentas-paper-reviews/)
   - [music-art-and-machine-intelligence](https://tensorflowkorea.wordpress.com/2016/07/17/music-art-and-machine-intelligence-workshop-2016/)
 
