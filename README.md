@@ -10,7 +10,12 @@
   - RLU
   - E2E ( end to end Memory )
   - [generative-models](https://openai.com/blog/generative-models/)
-
+  - 
+  
+###Project
+- magenta 
+  - [Google Magenta(작곡 딥러닝)](https://tensorflowkorea.wordpress.com/2016/07/11/magentas-paper-reviews/)
+  - [music-art-and-machine-intelligence](https://tensorflowkorea.wordpress.com/2016/07/17/music-art-and-machine-intelligence-workshop-2016/)
 ###Lecture
 - sung kim - https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
 - CS231n: [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) / [Video](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
@@ -24,7 +29,6 @@
 ###Papers
 - A New Method to Visualize Deep Neural Networks( Deep NN  시각화 ) -  http://arxiv.org/abs/1603.02518v2
 - Deep Speech 2(음성인식) - https://arxiv.org/abs/1512.02595
-- [Google Magenta(작곡 딥러닝)](https://tensorflowkorea.wordpress.com/2016/07/11/magentas-paper-reviews/)
 - [Bag of Tricks for Efficient Text Classification-CPU가 더 빠른.](https://arxiv.org/pdf/1607.01759v2.pdf)
 - [Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding](https://arxiv.org/abs/1606.01847)
 - [지워진 부분 그리기 Context Encoders: Feature Learning by Inpainting](http://people.eecs.berkeley.edu/~pathak/context_encoder/)
