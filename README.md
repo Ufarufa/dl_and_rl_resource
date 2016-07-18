@@ -10,12 +10,15 @@
   - RLU
   - E2E ( end to end Memory )
   - [generative-models](https://openai.com/blog/generative-models/)
-  - 
   
 ###Project
 - magenta 
   - [Google Magenta(작곡 딥러닝)](https://tensorflowkorea.wordpress.com/2016/07/11/magentas-paper-reviews/)
   - [music-art-and-machine-intelligence](https://tensorflowkorea.wordpress.com/2016/07/17/music-art-and-machine-intelligence-workshop-2016/)
+
+###tensorflow
+- [distributed-tensorflow](https://tensorflowkorea.wordpress.com/2016/07/17/[distributed-tensorflow](-design-patterns-and-best-practices/)
+
 ###Lecture
 - sung kim - https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
 - CS231n: [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) / [Video](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
