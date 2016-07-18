@@ -85,6 +85,8 @@
 - [DeepMind-Early Visual Concept Learning with Unsupervised Deep Learning](https://arxiv.org/pdf/1606.05579.pdf)
 - [DeepMind-Conditional Image Generation with PixelCNN Decoders](https://arxiv.org/pdf/1606.05579.pdf)
 - [DeepMind-Asynchronous Methods for Deep Reinforcement Learning](http://arxiv.org/pdf/1602.01783.pdf)
+- [DeepMind-Continuous Deep q-Learning with Model-based Acceleration](http://arxiv.org/pdf/1603.00748v1.pdf)
+  - [구현](https://github.com/carpedm20/NAF-tensorflow)
 
 ###관련 Github
 - [딥러닝 논문 구현-By Carpedm20](https://github.com/carpedm20/deep-rl-tensorflow)
