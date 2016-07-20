@@ -17,7 +17,7 @@
   - [music-art-and-machine-intelligence](https://tensorflowkorea.wordpress.com/2016/07/17/music-art-and-machine-intelligence-workshop-2016/)
 
 ###tensorflow
-- [distributed-tensorflow](https://tensorflowkorea.wordpress.com/2016/07/17/[distributed-tensorflow](-design-patterns-and-best-practices/)
+- [distributed-tensorflow](https://tensorflowkorea.wordpress.com/2016/07/17/distributed-tensorflow-design-patterns-and-best-practices/)
 
 ###Lecture
 - sung kim - https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
