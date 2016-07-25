@@ -36,6 +36,7 @@
 - [Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding](https://arxiv.org/abs/1606.01847)
 - [지워진 부분 그리기 Context Encoders: Feature Learning by Inpainting](http://people.eecs.berkeley.edu/~pathak/context_encoder/)
 - [Layer Normalization](http://arxiv.org/pdf/1607.06450.pdf) - 배치 노말라이제이션을 변형하여 입력 데이터의 평균과 분산을 이용해 레이어 노말라이제이션을 적용
+  - https://tensorflowkorea.wordpress.com/2016/07/24/layer-normalization/ 
  
 ###구현 
 - deep-learning-for-chatbots : http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/
