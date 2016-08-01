@@ -15,6 +15,9 @@
 - Magenta 
   - [Google Magenta(작곡 딥러닝)](https://tensorflowkorea.wordpress.com/2016/07/11/magentas-paper-reviews/)
   - [music-art-and-machine-intelligence](https://tensorflowkorea.wordpress.com/2016/07/17/music-art-and-machine-intelligence-workshop-2016/)
+  - 
+###Posting
+- [Deep Learning For 이미지 분석 ](https://www.facebook.com/groups/TensorFlowKR/permalink/321214624886269/) 
 
 ###tensorflow
 - [distributed-tensorflow](https://tensorflowkorea.wordpress.com/2016/07/17/distributed-tensorflow-design-patterns-and-best-practices/)
