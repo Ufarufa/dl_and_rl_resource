@@ -100,8 +100,9 @@
 최근에 supervised learning 문제에 대한 discussion은 많이 보이던데, DeepMind나 OpenAI가 집중하고 있는 RL이나 generative model에 대한 얘기도 좀 더 많이 나오면 좋겠네요 ㅎㅎ 다음에는 이번 ICML에서 best paper를 받은 PixelRNN과 PixelCNN를 공부해 보려고 합니다
 
 ###관련 Github
-- [딥러닝 논문 구현-By Carpedm20](https://github.com/carpedm20/deep-rl-tensorflow)
+- [tensorflow-딥러닝 논문 구현-By Carpedm20](https://github.com/carpedm20/deep-rl-tensorflow)
 - [자료 모음-홍상진](https://github.com/sangjinhong/deep_learning)
+- [keras-강화 학습 구현- By matthiasplappert](https://github.com/matthiasplappert/keras-rl)
 
 ###Twitter
 - https://twitter.com/DeepMindAI
