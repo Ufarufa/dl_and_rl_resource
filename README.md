@@ -2,6 +2,7 @@
 ###Python & tensorflow
 - [intsatll tensorflow in ubuntu16](http://www.popit.kr/tensorflow-install-ubuntu16/)
 - [python tutorial 5hours](https://www.youtube.com/watch?v=emY34tSKXc4)
+- [python 이해하기](http://www.slideshare.net/dahlmoon/python-20160815)
 
 ###Twitter
 - https://twitter.com/DeepMindAI
