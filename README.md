@@ -1,4 +1,8 @@
 # 딥러닝 & 강화 학습 관련 자료들.
+###Python & tensorflow
+- [intsatll tensorflow in ubuntu16](http://www.popit.kr/tensorflow-install-ubuntu16/)
+- [python tutorial 5hours](https://www.youtube.com/watch?v=emY34tSKXc4)
+
 ###Twitter
 - https://twitter.com/DeepMindAI
 - https://twitter.com/demishassabis
