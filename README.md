@@ -1,4 +1,9 @@
 # 딥러닝 & 강화 학습 관련 자료들.
+###Twitter
+- https://twitter.com/DeepMindAI
+- https://twitter.com/demishassabis
+- https://twitter.com/OpenAI 
+- https://twitter.com/DeepLearningHub
 
 ## Deep Learning
 ###Algorithm
@@ -104,8 +109,4 @@
 - [자료 모음-홍상진](https://github.com/sangjinhong/deep_learning)
 - [keras-강화 학습 구현- By matthiasplappert](https://github.com/matthiasplappert/keras-rl)
 
-###Twitter
-- https://twitter.com/DeepMindAI
-- https://twitter.com/demishassabis
-- https://twitter.com/OpenAI 
-- https://twitter.com/DeepLearningHub
+
