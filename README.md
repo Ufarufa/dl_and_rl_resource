@@ -5,11 +5,12 @@
 - [python study by MS](https://mva.microsoft.com/ko/training-courses/python%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%86%8C%EA%B0%9C-8360?l=CrrhO0O8_6204984382)
 - [python 이해하기](http://www.slideshare.net/dahlmoon/python-20160815)
 
-###Twitter
+###Daily Check
 - https://twitter.com/DeepMindAI
 - https://twitter.com/demishassabis
 - https://twitter.com/OpenAI 
 - https://twitter.com/DeepLearningHub
+- [논문 설명]https://github.com/karpathy/paper-notes
 
 ## Deep Learning
 ###Algorithm
