@@ -29,6 +29,8 @@
 
 ###Posting
 - [Deep Learning For 이미지 분석 ](https://www.facebook.com/groups/TensorFlowKR/permalink/321214624886269/) 
+- [Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/)
+  - [구현](https://github.com/jazzsaxmafia/Inpainting)   
 
 ###tensorflow
 - [distributed-tensorflow](https://tensorflowkorea.wordpress.com/2016/07/17/distributed-tensorflow-design-patterns-and-best-practices/)
@@ -51,6 +53,8 @@
 - [지워진 부분 그리기 Context Encoders: Feature Learning by Inpainting](http://people.eecs.berkeley.edu/~pathak/context_encoder/)
 - [Layer Normalization](http://arxiv.org/pdf/1607.06450.pdf) - 배치 노말라이제이션을 변형하여 입력 데이터의 평균과 분산을 이용해 레이어 노말라이제이션을 적용
   - https://tensorflowkorea.wordpress.com/2016/07/24/layer-normalization/ 
+- [Matching Networks for One Shot Learning  ](https://arxiv.org/pdf/1606.04080.pdf)
+  - [정리](https://github.com/karpathy/paper-notes/blob/master/matching_networks.md)
  
 ###구현 
 - deep-learning-for-chatbots : http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/
