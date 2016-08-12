@@ -3,6 +3,7 @@ https://github.com/scrosby/fedone/blob/master/whitepapers/operational-transform/
 
 ###Operational transformation
 OT는 원래 일관성 유지와 평문 문서를 동시 편집시 동시성 제어를 위해 개발되었다. 20여개의 연구가 그 능력을 확장 시켰고, 응용분야를 Group Undo, Locking, 충돌 해결, 명령어 알림 및 압축, 그룹 인식, 트리 구조 문서 편집(XML, HTML), 공동 오피스 생산성 도구 등으로 넓혔다.
+
 Operational transformation
 - History
 - System architecture
