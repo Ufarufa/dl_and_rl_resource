@@ -1,7 +1,7 @@
 https://github.com/scrosby/fedone/blob/master/whitepapers/operational-transform/operational-transform.rst
 원문 : https://en.wikipedia.org/wiki/Operational_transformation
 
-###Operational transformation
+#Operational transformation
 OT는 원래 일관성 유지와 평문 문서를 동시 편집시 동시성 제어를 위해 개발되었다. 20여개의 연구가 그 능력을 확장 시켰고, 응용분야를 Group Undo, Locking, 충돌 해결, 명령어 알림 및 압축, 그룹 인식, 트리 구조 문서 편집(XML, HTML), 공동 오피스 생산성 도구 등으로 넓혔다.
 
 Operational transformation
@@ -39,10 +39,10 @@ OT의 기본적인 원리리는 이전에 실행된 동시 명령어의 영향�
  
 ##Basic idea behind OT
  
-#Consistency models (항상성 유지 모델)
+##Consistency models (항상성 유지 모델)
 OT의  기능 중 하나는 공동편집에서 항상성 유지를 지원하는 것이다. 연구자 커뮤니티에서 여러가지 항상성 모델이 제안되었다. 어떤한 것을 공동편집에서 일반적이고, 어떠한 것들은 OT 알고리즘만을 위한 특별한 것이다.
  
-#CC Model
+###CC Model
 paper "Concurrency control in groupware systems" 논문에서, 공동편집 시스템을 위해 2개의 항상성 요소가 필요하고 하였다,
 Precedence(Causality) Property (인과관계) : 공동편집 과정중에  인과관계가 있는 명령어의 실행순서는, 그들의 자연스러운 인과 순서와 같아야한다. 2개의 명령어 간의 인과관계는  Lamport's "happened-before" 관계에서 정의된다.
 2개의 명령어가 인과과계적으로 의존성이 없으면, 그들은 동시성을 가진다. 2개의 동시성 명령어는 2개의 다른 문서 복사본에서 다른 순서로 실행될 수 있다.
@@ -51,7 +51,7 @@ Convergence(수렴-모든 문서가 하나의 문서로 수렴) : 공유 문서�
 동시성 명령어가 다른 순서로 실행되지고 나서부터, 편집 명령어들은 교환법칙이 보통 섭립하지 않고, 다른 클라이언트의 문서복사본들은 분기를 탄다.(내용이 달라진다.)
 첫 OT 알고리즘은 그룹 문서편집기에서 수렴(convergence)을 달성하기 위해, 논문에서 제안되었다. 우선순위를 지켜주기 위해 state-vector 가 사용되었다.
  
-#The CCI model
+###The CCI model
 CCI 모델은 공동편집에서 항상성 관리를 위해 제안되었다. CCI 모델어서는 3개의 항상성 요소가 있다.
 Causality preservation(인과관계 보존) : CC 모델에서 Precedence  와 같다.
 Convergence: CC 모델에서 Convergence와 같다.
@@ -63,7 +63,7 @@ intention preservation 의 개념은 아래 3가지 레벨에서 정의 된다.
 둘째, 일반적인 OT  동작을 위한 전후 변환 조건으로 정의 된다.
 셋째, 2개의 원본 명령어를 위한 OT 동작을 위한 설계를 가이드 하기 위한 특정 명령어 검증 기준으로 정의된다.
 
-#The CSM model
+###The CSM model
 intention preservation 의 조건은 공식적인 증거의 목적으로 CCI 모델에서 공식으로 특별한것이 아니다.
 SDT,LBT 접근 법은 주어질수 있는 다른 조건을 형식화하도룩 시도했다. 이 2가지의 접근법에서 항상성 모델은 아래와 같은 일반화된 조건으로 구성되어 있다.
  
@@ -71,7 +71,7 @@ Causality: CC 모델에서 Precedence  와 같다.
 Single-operation effects: 어떠한 실행 클라이언트에서 어떠한 실행결과가 만든 클라이언트와 같은 효과를 달성해야한다.
 Multi-operation effects: t어떠한 2개의 명령어의 실행결과 관계가 어떠한 상태에서 2개다 실행된후에 유지된다.
 
-#The CA model
+###The CA model
 위의 CSM 모델은 시스템 안에서 모든 오브제극의 전체 순서가 특별해야 함이 필요하다. 효과적으로, 이 사양은 삽입 동작에 의해 도입된 새로운 오브젝트를 줄인다.
 그러나 전체 순서에 사양은 삽입 관계를 끈는 거 같은 프로그램 종속적인 정책을 수반한다. (같은 위치에 2개의 명령어의 의해 삽입된 새로운 객체)
 그 결과, 전체 순서는 프로그램 종속적이다. 더욱이 알고리즘에서 전체 순서는 변환 함수에서 유지 되어야 한다. (이동작은 알고리즘의 시작복잡도를 높힌다.)
