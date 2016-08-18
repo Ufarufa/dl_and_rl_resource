@@ -19,6 +19,7 @@
 - [sutton book 2015 ](https://www.dropbox.com/s/b3psxv2r0ccmf80/book2015oct.pdf?dl=0)
 - Replicating Deep Q Learning with TensorFlow 
   - [1](https://www.youtube.com/watch?v=suNNrEHDR-I) / [2](https://www.youtube.com/watch?v=Zu-oNPPVvfI)
+- [Policy Gradients wiki](http://www.scholarpedia.org/article/Policy_gradient_methods)
 
 
 ### Posting
