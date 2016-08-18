@@ -33,6 +33,7 @@
 - [Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/)
   - [구현](https://github.com/jazzsaxmafia/Inpainting)   
 - [Face Auto Gen](https://tensorflowkorea.wordpress.com/2016/08/18/neural-facegrid-by-discgen/)
+- [ConvNet with WebGL](https://tensorflowkorea.wordpress.com/2016/08/18/convnet-with-webgl/)
 
 ###tensorflow
 - [distributed-tensorflow](https://tensorflowkorea.wordpress.com/2016/07/17/distributed-tensorflow-design-patterns-and-best-practices/)
