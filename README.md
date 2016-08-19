@@ -11,6 +11,7 @@
 - https://twitter.com/OpenAI 
 - https://twitter.com/DeepLearningHub
 - https://twitter.com/jackclarksf
+- https://twitter.com/karpathy
 - [논문 설명]https://github.com/karpathy/paper-notes
 
 ## Deep Learning
