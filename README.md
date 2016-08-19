@@ -10,6 +10,7 @@
 - https://twitter.com/demishassabis
 - https://twitter.com/OpenAI 
 - https://twitter.com/DeepLearningHub
+- https://twitter.com/jackclarksf
 - [논문 설명]https://github.com/karpathy/paper-notes
 
 ## Deep Learning
