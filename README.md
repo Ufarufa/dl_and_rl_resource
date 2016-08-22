@@ -50,6 +50,7 @@
 - [Deep Generative Models](https://portal.klewel.com/watch/webcast/deep-learning-tools-and-methods-workshop/talk/6)
 - [ICML’15](http://dpkingma.com/?page_id=483)
 - [Google I/O Extended Seoul 2016 - Tensorflow 101](https://www.youtube.com/watch?v=7UwAz4Jvvko)
+- [Deep Learning for Computer Vision Barcelona 2016 ](http://imatge-upc.github.io/telecombcn-2016-dlcv/)
  
 ###Papers
 - A New Method to Visualize Deep Neural Networks( Deep NN  시각화 ) -  http://arxiv.org/abs/1603.02518v2
