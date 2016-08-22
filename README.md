@@ -63,6 +63,7 @@
 - [Matching Networks for One Shot Learning  ](https://arxiv.org/pdf/1606.04080.pdf)
   - [정리](https://github.com/karpathy/paper-notes/blob/master/matching_networks.md)
 - [학습과 에러전파를 따로-DeepMind Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/pdf/1608.05343.pdf) 
+  - [summary](https://tensorflowkorea.wordpress.com/2016/08/22/decoupled-neural-interfaces-using-synthetic-gradients1608-05343-summary/) 
  
 ###구현 
 - deep-learning-for-chatbots : http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/
