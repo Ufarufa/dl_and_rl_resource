@@ -20,7 +20,7 @@
 - Replicating Deep Q Learning with TensorFlow 
   - [1](https://www.youtube.com/watch?v=suNNrEHDR-I) / [2](https://www.youtube.com/watch?v=Zu-oNPPVvfI)
 - [Policy Gradients wiki](http://www.scholarpedia.org/article/Policy_gradient_methods)
-
+- [모두의 연구소 RL 책](https://dnddnjs.gitbooks.io/rl/content/)
 
 ### Posting
 - [Deep Mind blog](https://deepmind.com/blog)
