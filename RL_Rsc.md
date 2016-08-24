@@ -33,6 +33,7 @@
 - [torch blog](http://torch.ch/blog/index.html)
 - [Reinforce Pong at Gym-tensorflowKorea](https://tensorflowkorea.wordpress.com/2016/07/13/reinforce-pong-at-gym/)
 - [Q-learing + CNN를 이용한 지역화](http://www.slideshare.net/ssuser06e0c5/q-learning-cnn-object-localization)
+- [Semantic representations in the temporal pole predict false memories](http://www.pnas.org/content/early/2016/08/16/1610686113.long)
 - Reinforment L 
   - [1. Demystifying Deep Reinforcement Learning](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
   - [2. deep-reinforcement-learning-with-neon](https://www.nervanasys.com/deep-reinforcement-learning-with-neon/)
