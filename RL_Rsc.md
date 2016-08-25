@@ -35,6 +35,7 @@
 - [Q-learing + CNN를 이용한 지역화](http://www.slideshare.net/ssuser06e0c5/q-learning-cnn-object-localization)
 - [Semantic representations in the temporal pole predict false memories](http://www.pnas.org/content/early/2016/08/16/1610686113.long)
 - [Deep Deterministic Policy Gradients in TensorFlow](http://pemami4911.github.io/blog_posts/2016/08/21/ddpg-rl.html)
+- [rl4j-DQN](https://rubenfiszel.github.io/posts/rl4j/2016-09-08-DQN-Learning-to-play-from-pixels-step-by-step.html)
 - Reinforment L 
   - [1. Demystifying Deep Reinforcement Learning](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
   - [2. deep-reinforcement-learning-with-neon](https://www.nervanasys.com/deep-reinforcement-learning-with-neon/)
