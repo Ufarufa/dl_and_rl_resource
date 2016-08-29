@@ -31,6 +31,7 @@
 - [Deep Reinforcement Learning: Frontiers and Challenges, IJCAI 2016](https://sites.google.com/site/deeprlijcai16/programme)
 - [dueling_dqn](http://torch.ch/blog/2016/04/30/dueling_dqn.html)
 - [torch blog](http://torch.ch/blog/index.html)
+- [텐서플로우(TensorFlow)를 이용해 간단한 DQN(Deep-Q-Networks) ](http://solarisailab.com/archives/486)
 - [Reinforce Pong at Gym-tensorflowKorea](https://tensorflowkorea.wordpress.com/2016/07/13/reinforce-pong-at-gym/)
 - [Q-learing + CNN를 이용한 지역화](http://www.slideshare.net/ssuser06e0c5/q-learning-cnn-object-localization)
 - [Semantic representations in the temporal pole predict false memories](http://www.pnas.org/content/early/2016/08/16/1610686113.long)
