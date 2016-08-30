@@ -78,8 +78,8 @@
 일단 설명만 들어도 복잡하고 파라미터가 많아질거 같습니다. 그러나 저자들은 이렇게 연결을 많이 해서 생기는 장점때문에 오히려 적은 레이어가 필요하여 생각하는 만큼 오버헤드도 크지 않고 오히려 효율적이라고 하고 있습니다. 그 중 가장 중점이 되는 주장은 skip-connection으로 모든 레이어에 연결되어 있어 feature의 재상용이 증가하고, 그럼으로 파라미터가 줄어든다고 합니다.
 음.. 저자들의 일방적인 주장같지만 어쩌면 일리가 있습니다. Residual Networks are Exponential Ensembles of Relatively Shallow Networks(https://arxiv.org/abs/1605.06431)에 보면 어려운 task를 할 때 resinet을 이루는 Shallow Networks들의 길이가 더 길어지고 쉬운 일을 할 때 좀 짧아진다고 한듯...(기억이 가물..가물) 합니다. 그렇다면 중복이나 비효율성이 있을거고 그것을 줄이는 방법으로 한듯 합니다.
 이렇게 무식해 보이지만 다 연결해서 몇 public set에서는 최고 성능을 찍었습니다. 그러고 보니 최근 이런 식의 skip connection을 늘리는 연구가 많이 진행 되었습니다.
-1. AdaNet: Adaptive Structural Learning of Artificial Neural Networks (https://arxiv.org/pdf/1607.01097v1.pdf)
-2. Collaborative Layer-wise Discriminative Learning in Deep Neural Networks (https://arxiv.org/pdf/1607.05440v1.pdf)
+    - AdaNet: Adaptive Structural Learning of Artificial Neural Networks (https://arxiv.org/pdf/1607.01097v1.pdf)
+    - Collaborative Layer-wise Discriminative Learning in Deep Neural Networks (https://arxiv.org/pdf/1607.05440v1.pdf)
 AdaNet이나 Collaborative Layer-wise Discriminative Learning 같은 경우는 skip connection을 상황에 맞게 늘리는 것으로 이해했습니다. (물론 제가 맞는지 저도 모른다는거..) 비교할만한 성능이 제시 안 되어 있어 비교는 힘들지만, deep learning이라는 점에서 무식해 보이는 densenet이 오히려 좋을 수 있을거라는 생각이 듭니다. 학습 과정에서 또 알아서 최적화를 해 버릴 수 있다는 이상한 예감이....
  
 ###구현 
