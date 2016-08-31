@@ -39,6 +39,7 @@
 - [rl4j-DQN](https://rubenfiszel.github.io/posts/rl4j/2016-09-08-DQN-Learning-to-play-from-pixels-step-by-step.html)
 - [Teaching Your Computer To Play Super Mario Bros](http://www.ehrenbrav.com/2016/08/teaching-your-computer-to-play-super-mario-bros-a-fork-of-the-google-deepmind-atari-machine-learning-project/?ref=mybridge.co)
 - [튜토리얼 ICML2016-DL](http://techtalks.tv/talks/deep-reinforcement-learning/62360/)
+- [deep-reinforcement-learning-with-openai](http://www.rubedo.com.br/2016/08/deep-reinforcement-learning-with-openai.html)
 - Reinforment L 
   - [1. Demystifying Deep Reinforcement Learning](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
   - [2. deep-reinforcement-learning-with-neon](https://www.nervanasys.com/deep-reinforcement-learning-with-neon/)
