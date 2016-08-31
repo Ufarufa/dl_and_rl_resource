@@ -72,6 +72,8 @@
   - [정리](https://github.com/karpathy/paper-notes/blob/master/matching_networks.md)
 - [학습과 에러전파를 따로-DeepMind Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/pdf/1608.05343.pdf) 
   - [summary](https://tensorflowkorea.wordpress.com/2016/08/22/decoupled-neural-interfaces-using-synthetic-gradients1608-05343-summary/) 
+  - [Deep mind BLog](https://deepmind.com/blog#decoupled-neural-interfaces-using-synthetic-gradients)
+  - [summary2](https://tensorflowkorea.wordpress.com/2016/08/31/synthetic-gradient-revisited/)
 - [Densely Connected Convolutional Networks](http://arxiv.org/abs/1608.06993)
   - 오늘 소개시켜 드릴 논문은 "Densely Connected Convolutional Networks" (http://arxiv.org/abs/1608.06993)입니다.
 일종의 residual network라고 볼 수 있을거 같습니다. 그런데 논문에 나온 그래도, "each layer is directly connected to every other layer in a feed-forward fashion" 모든 레이어가 앞에 나오는 모든 레이어와 직접 연결되어 있습니다. 그래서 이름이 Densely Connected Convolutional Networks (DenseNet) 입니다.
