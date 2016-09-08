@@ -41,6 +41,7 @@
 - deeplearning2016_montreal
   - [Video](http://videolectures.net/deeplearning2016_montreal/)
 - [AI 온라인 컨퍼런스](http://ai.withthebest.com/)
+- [Machine Learning Top 10 Articles ](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-2f3cb815ffed#.v5pj4aa7o)
 - facebook Object Recognation in Image 
   - [facebook posting](https://code.facebook.com/posts/561187904071636)
   - [tensorflowkorea Po](https://tensorflowkorea.wordpress.com/2016/08/26/facebook-open-source-image-recognition-tools/)
