@@ -34,6 +34,7 @@
 
 ###Posting
 - [WaveNet: DeepMind’s New Model for Audio](https://tensorflowkorea.wordpress.com/2016/09/09/wavenet-deepminds-new-model-for-audio/)
+- [Generating Videos with Scene Dynamics](http://web.mit.edu/vondrick/tinyvideo/)
 - [Deep Learning For 이미지 분석 ](https://www.facebook.com/groups/TensorFlowKR/permalink/321214624886269/) 
 - [Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/)
   - [구현](https://github.com/jazzsaxmafia/Inpainting)   
