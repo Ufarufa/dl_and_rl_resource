@@ -52,13 +52,15 @@
 - Playing Atari : Playing Atari with Deep Reinforcement Learning(DQN) - http://arxiv.org/abs/1312.5602
 - Play FlappyBird( DQN imp ) - http://sarvagyavaish.github.io/FlappyBirdRL/
 - [Dueling Network Architectures for Deep Reinforcement Learning](http://arxiv.org/pdf/1511.06581v3.pdf)
-- [DeepMind-Early Visual Concept Learning with Unsupervised Deep Learning](https://arxiv.org/pdf/1606.05579.pdf)
-- [DeepMind-Conditional Image Generation with PixelCNN Decoders](https://arxiv.org/pdf/1606.05579.pdf)
-- [DeepMind-Asynchronous Methods for Deep Reinforcement Learning](http://arxiv.org/pdf/1602.01783.pdf)
-- [DeepMind-Continuous Deep q-Learning with Model-based Acceleration](http://arxiv.org/pdf/1603.00748v1.pdf)
-  - [구현](https://github.com/carpedm20/NAF-tensorflow)
-  - 논문에서 비교하고 있는 Deep Deterministic Policy Gradient (DDPG)는 Continuous space에서 actor-critic을 사용해서 문제를 해결했는데, 이 논문에서는 duelling network와 유사한 구조를 사용해서 적은 파라미터와 비교적 간단한 알고리즘으로 학습이 가능하다고 합니다. OpenAI에서 공개한 Requests for Research 중에서 하나가 이 논문을 구현하는건데, 이제 hyperparameter를 바꾸지 않고 얼마나 많은 문제를 풀 수 있을지 실험을 해 봐야할 것 같네요.
-최근에 supervised learning 문제에 대한 discussion은 많이 보이던데, DeepMind나 OpenAI가 집중하고 있는 RL이나 generative model에 대한 얘기도 좀 더 많이 나오면 좋겠네요 ㅎㅎ 다음에는 이번 ICML에서 best paper를 받은 PixelRNN과 PixelCNN를 공부해 보려고 합니다
+- [Episodic Exploration for Deep Deterministic Policies: An Application to StarCraft Micromanagement Tasks](http://arxiv.org/abs/1609.02993)
+- DeepMind Papers
+  - [DeepMind-Early Visual Concept Learning with Unsupervised Deep Learning](https://arxiv.org/pdf/1606.05579.pdf)
+  - [DeepMind-Conditional Image Generation with PixelCNN Decoders](https://arxiv.org/pdf/1606.05579.pdf)
+  - [DeepMind-Asynchronous Methods for Deep Reinforcement Learning](http://arxiv.org/pdf/1602.01783.pdf)
+  - [DeepMind-Continuous Deep q-Learning with Model-based Acceleration](http://arxiv.org/pdf/1603.00748v1.pdf)
+    - [구현](https://github.com/carpedm20/NAF-tensorflow)
+    - 논문에서 비교하고 있는 Deep Deterministic Policy Gradient (DDPG)는 Continuous space에서 actor-critic을 사용해서 문제를 해결했는데, 이 논문에서는 duelling network와 유사한 구조를 사용해서 적은 파라미터와 비교적 간단한 알고리즘으로 학습이 가능하다고 합니다. OpenAI에서 공개한 Requests for Research 중에서 하나가 이 논문을 구현하는건데, 이제 hyperparameter를 바꾸지 않고 얼마나 많은 문제를 풀 수 있을지 실험을 해 봐야할 것 같네요.
+    최근에 supervised learning 문제에 대한 discussion은 많이 보이던데, DeepMind나 OpenAI가 집중하고 있는 RL이나 generative model에 대한 얘기도 좀 더 많이 나오면 좋겠네요 ㅎㅎ 다음에는 이번 ICML에서 best paper를 받은 PixelRNN과 PixelCNN를 공부해 보려고 합니다
 
 ###관련 Github
 - [tensorflow-딥러닝 논문 구현-By Carpedm20](https://github.com/carpedm20/deep-rl-tensorflow)
