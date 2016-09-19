@@ -53,7 +53,7 @@
 
 ###Lecture
 - sung kim - https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
-- CS231n: [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) / [Video](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+- CS231n: [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) / [Video](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) /[강의 노트 한글](http://ishuca.tistory.com/category/CS231n)
 - Kmooc :
   - 경영데이터 마이닝 : http://www.kmooc.kr/courses/course-v1:HYUk+HYUBUS3099k+2016_C1/info
   - 인공지능과 기계학습 : http://www.kmooc.kr/courses/course-v1:KAISTk+KCS470+2015_K0201/info
@@ -62,6 +62,7 @@
 - [Google I/O Extended Seoul 2016 - Tensorflow 101](https://www.youtube.com/watch?v=7UwAz4Jvvko)
 - [Deep Learning for Computer Vision Barcelona 2016 ](http://imatge-upc.github.io/telecombcn-2016-dlcv/)
 - [코세라 NLP](https://www.coursera.org/learn/natural-language-processing)
+
  
 ###Papers
 - A New Method to Visualize Deep Neural Networks( Deep NN  시각화 ) -  http://arxiv.org/abs/1603.02518v2
