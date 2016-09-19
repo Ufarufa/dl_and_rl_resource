@@ -62,6 +62,7 @@
 - [Google I/O Extended Seoul 2016 - Tensorflow 101](https://www.youtube.com/watch?v=7UwAz4Jvvko)
 - [Deep Learning for Computer Vision Barcelona 2016 ](http://imatge-upc.github.io/telecombcn-2016-dlcv/)
 - [코세라 NLP](https://www.coursera.org/learn/natural-language-processing)
+- [아카데믹 토렌트](http://academictorrents.com/)
 
  
 ###Papers
