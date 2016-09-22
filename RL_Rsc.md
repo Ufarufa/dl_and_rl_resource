@@ -22,6 +22,7 @@
 - [Policy Gradients wiki](http://www.scholarpedia.org/article/Policy_gradient_methods)
 - [모두의 연구소 RL 책](https://dnddnjs.gitbooks.io/rl/content/)
 - [RL 기초 ](https://norman3.github.io/rl/)
+- [인공지능 By SNU](https://www.youtube.com/playlist?list=PLzWH6Ydh35ggVGbBh48TNs635gv2nxkFI)
 
 ### Posting
 - [Deep Mind blog](https://deepmind.com/blog)
