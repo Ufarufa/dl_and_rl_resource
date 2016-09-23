@@ -39,6 +39,7 @@
 - [Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/)
   - [구현](https://github.com/jazzsaxmafia/Inpainting)   
 - [Face Auto Gen](https://tensorflowkorea.wordpress.com/2016/08/18/neural-facegrid-by-discgen/)
+- [Google opensource new image captioning](https://tensorflowkorea.wordpress.com/2016/09/23/google-opensource-new-image-captioning-model-im2txt/)
 - [ConvNet with WebGL](https://tensorflowkorea.wordpress.com/2016/08/18/convnet-with-webgl/)
 - deeplearning2016_montreal
   - [Video](http://videolectures.net/deeplearning2016_montreal/)
