@@ -23,10 +23,12 @@
 - [모두의 연구소 RL 책](https://dnddnjs.gitbooks.io/rl/content/)
 - [RL 기초 ](https://norman3.github.io/rl/)
 - [인공지능 By SNU](https://www.youtube.com/playlist?list=PLzWH6Ydh35ggVGbBh48TNs635gv2nxkFI)
+- [Introduction to Markov Chain Monte Carlo](http://www.mcmchandbook.net/HandbookChapter1.pdf)
 
 ### Posting
 - [Deep Mind blog](https://deepmind.com/blog)
 - [Open Ai 분석-모두의 연구소](http://www.modulabs.co.kr/RL_library/2621)
+- [딥 강화학습 쉽게 이해하기](http://ddanggle.github.io/ml/ai/cs/2016/09/24/demystifyingDL.html)
 - [Replicating Deep Q Learning with TensorFlow - 한국어](https://www.youtube.com/watch?v=suNNrEHDR-I)
 - [Simple reinforcement learning ](http://kvfrans.com/simple-algoritms-for-solving-cartpole/)
 - [GP By karpathy](http://karpathy.github.io/2016/05/31/rl/)
