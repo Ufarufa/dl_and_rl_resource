@@ -34,6 +34,9 @@
 - Magenta 
   - [Google Magenta(작곡 딥러닝)](https://tensorflowkorea.wordpress.com/2016/07/11/magentas-paper-reviews/)
   - [music-art-and-machine-intelligence](https://tensorflowkorea.wordpress.com/2016/07/17/music-art-and-machine-intelligence-workshop-2016/)
+  
+### DataSet
+- 3D Human Pose DataSet(http://domedb.perception.cs.cmu.edu/dataset.html)
 
 ###Posting
 - [WaveNet: DeepMind’s New Model for Audio](https://tensorflowkorea.wordpress.com/2016/09/09/wavenet-deepminds-new-model-for-audio/)
