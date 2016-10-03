@@ -39,6 +39,7 @@
 - [3D Human Pose DataSet](http://domedb.perception.cs.cmu.edu/dataset.html)
 - [google youtube video dataSet](https://research.googleblog.com/2016/09/announcing-youtube-8m-large-and-diverse.html)
 - [google image dataSet](https://tensorflowkorea.wordpress.com/2016/10/02/open-images-dataset/)
+- [KAIST_Corpus](http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus)
 
 ###Posting
 - [WaveNet: DeepMind’s New Model for Audio](https://tensorflowkorea.wordpress.com/2016/09/09/wavenet-deepminds-new-model-for-audio/)
