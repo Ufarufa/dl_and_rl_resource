@@ -74,7 +74,9 @@
 - [Deep Learning for Computer Vision Barcelona 2016 ](http://imatge-upc.github.io/telecombcn-2016-dlcv/)
 - [코세라 NLP](https://www.coursera.org/learn/natural-language-processing)
 - [아카데믹 토렌트](http://academictorrents.com/)
-- [뇌과학으로 본 인공지능의 현주소와 미래 01](https://www.youtube.com/watch?v=efWSbITntR0)
+- EXEM Seminar
+  - [뇌과학으로 본 인공지능의 현주소와 미래 01](https://www.youtube.com/watch?v=efWSbITntR0)
+  - [EXEM Seminar / 뇌과학으로 본 인공지능의 현주소와 미래 ](https://www.youtube.com/watch?v=48EsevSvoRw)
 
  
 ###Papers
