@@ -80,6 +80,7 @@
 
  
 ###Papers
+- [Video Pixel Networks](https://arxiv.org/pdf/1610.00527v1.pdf)
 - A New Method to Visualize Deep Neural Networks( Deep NN  시각화 ) -  http://arxiv.org/abs/1603.02518v2
 - Deep Speech 2(음성인식) - https://arxiv.org/abs/1512.02595
 - [Bag of Tricks for Efficient Text Classification-CPU가 더 빠른.](https://arxiv.org/pdf/1607.01759v2.pdf)
