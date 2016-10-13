@@ -55,6 +55,7 @@
 - [AI 온라인 컨퍼런스](http://ai.withthebest.com/)
 - [Deep Learing Book Study](https://tensorflowkorea.wordpress.com/2016/09/23/deep-learning-textbook-study-group/)
 - [Machine Learning Top 10 Articles ](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-2f3cb815ffed#.v5pj4aa7o)
+- [Beyond Deep Learning – 3rd Generation Neural Nets](http://www.datasciencecentral.com/profiles/blogs/beyond-deep-learning-3rd-generation-neural-nets)
 - facebook Object Recognation in Image 
   - [facebook posting](https://code.facebook.com/posts/561187904071636)
   - [tensorflowkorea Po](https://tensorflowkorea.wordpress.com/2016/08/26/facebook-open-source-image-recognition-tools/)
@@ -80,6 +81,7 @@
 
  
 ###Papers
+- [OpenAI-Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498v1.pdf)
 - [Video Pixel Networks](https://arxiv.org/pdf/1610.00527v1.pdf)
 - A New Method to Visualize Deep Neural Networks( Deep NN  시각화 ) -  http://arxiv.org/abs/1603.02518v2
 - Deep Speech 2(음성인식) - https://arxiv.org/abs/1512.02595
