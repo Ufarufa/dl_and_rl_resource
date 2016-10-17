@@ -42,6 +42,9 @@
 - [KAIST_Corpus](http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus)
 
 ###Posting
+- [openai-infrastructure-for-deep-learning](https://openai.com/blog/infrastructure-for-deep-learning/)
+- [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/)
+- [how-to-run-text-summarization-with-TF](https://medium.com/@surmenok/how-to-run-text-summarization-with-tensorflow-d4472587602d#.4cec2w7t3)
 - [WaveNet: DeepMind’s New Model for Audio](https://tensorflowkorea.wordpress.com/2016/09/09/wavenet-deepminds-new-model-for-audio/)
 - [Generating Videos with Scene Dynamics](http://web.mit.edu/vondrick/tinyvideo/)
 - [Deep Learning For 이미지 분석 ](https://www.facebook.com/groups/TensorFlowKR/permalink/321214624886269/) 
@@ -75,6 +78,8 @@
 - [Deep Learning for Computer Vision Barcelona 2016 ](http://imatge-upc.github.io/telecombcn-2016-dlcv/)
 - [코세라 NLP](https://www.coursera.org/learn/natural-language-processing)
 - [아카데믹 토렌트](http://academictorrents.com/)
+- [
+creative-applications-of-deep-learning-with-TF](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
 - EXEM Seminar
   - [뇌과학으로 본 인공지능의 현주소와 미래 01](https://www.youtube.com/watch?v=efWSbITntR0)
   - [EXEM Seminar / 뇌과학으로 본 인공지능의 현주소와 미래 ](https://www.youtube.com/watch?v=48EsevSvoRw)
