@@ -63,6 +63,7 @@
 - [Dueling Network Architectures for Deep Reinforcement Learning](http://arxiv.org/pdf/1511.06581v3.pdf)
 - [Episodic Exploration for Deep Deterministic Policies: An Application to StarCraft Micromanagement Tasks](http://arxiv.org/abs/1609.02993)
 - [Multi-Objective Deep Reinforcement Learning](https://arxiv.org/abs/1610.02707)
+- [Towards Deep Symbolic Reinforcement Learning](https://arxiv.org/pdf/1609.05518.pdf)
 - DeepMind Papers
   - [DeepMind-Early Visual Concept Learning with Unsupervised Deep Learning](https://arxiv.org/pdf/1606.05579.pdf)
   - [DeepMind-Conditional Image Generation with PixelCNN Decoders](https://arxiv.org/pdf/1606.05579.pdf)
