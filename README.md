@@ -6,7 +6,7 @@
 - [python 이해하기](http://www.slideshare.net/dahlmoon/python-20160815)
 - [Node.js by MS](https://mva.microsoft.com/en-US/training-courses/using-nodejs-with-visual-studio-code-13920?l=nSEpCdzbB_001937557)
 - [neural-networks-and-tensorflow-introduction](https://tensorflowkorea.wordpress.com/2016/08/23/dl-with-neural-networks-and-tensorflow-introduction/)
-
+- [R에서 파이썬까지…데이터과학 학습 사이트 8곳](http://www.bloter.net/archives/237013?rccode=lvRc)
 
 [유사 논문 검색기](http://www.arxiv-sanity.com/top)
 
