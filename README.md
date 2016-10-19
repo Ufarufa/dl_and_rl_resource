@@ -7,6 +7,8 @@
 - [Node.js by MS](https://mva.microsoft.com/en-US/training-courses/using-nodejs-with-visual-studio-code-13920?l=nSEpCdzbB_001937557)
 - [neural-networks-and-tensorflow-introduction](https://tensorflowkorea.wordpress.com/2016/08/23/dl-with-neural-networks-and-tensorflow-introduction/)
 - [R에서 파이썬까지…데이터과학 학습 사이트 8곳](http://www.bloter.net/archives/237013?rccode=lvRc)
+- [Artificial Intelligence Open Network](http://ai-on.org/projects/)
+ - [github](https://github.com/AI-ON/ai-on.org)
 
 [유사 논문 검색기](http://www.arxiv-sanity.com/top)
 
