@@ -44,6 +44,10 @@
 - [KAIST_Corpus](http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus)
 
 ###Posting
+- [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/?utm_content=buffer55654&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [deep-learning-papers-reading-roadmap]
+ - [tensorflow](https://tensorflowkorea.wordpress.com/2016/10/25/deep-learning-papers-reading-roadmap/)
+ - [github Page](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 - [openai-infrastructure-for-deep-learning](https://openai.com/blog/infrastructure-for-deep-learning/)
 - [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/)
 - [how-to-run-text-summarization-with-TF](https://medium.com/@surmenok/how-to-run-text-summarization-with-tensorflow-d4472587602d#.4cec2w7t3)
@@ -88,6 +92,7 @@ creative-applications-of-deep-learning-with-TF](https://www.kadenze.com/courses/
 
  
 ###Papers
+- [fast-weights-rnn](https://tensorflowkorea.wordpress.com/2016/10/25/fast-weights-rnn/)
 - [OpenAI-Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498v1.pdf)
 - [Video Pixel Networks](https://arxiv.org/pdf/1610.00527v1.pdf)
 - A New Method to Visualize Deep Neural Networks( Deep NN  시각화 ) -  http://arxiv.org/abs/1603.02518v2
