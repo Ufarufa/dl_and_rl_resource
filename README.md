@@ -1,5 +1,6 @@
 # 딥러닝 & 강화 학습 관련 자료들.
 ###Python & tensorflow
+- [머신 러닝 배우기](https://brunch.co.kr/@aidenswmo/2)
 - [learning tensorflow](http://learningtensorflow.com/)
 - [intsatll tensorflow in ubuntu16](http://www.popit.kr/tensorflow-install-ubuntu16/)
 - [python tutorial 5hours](https://www.youtube.com/watch?v=emY34tSKXc4)
@@ -45,6 +46,7 @@
 - [KAIST_Corpus](http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus)
 
 ###Posting
+- [논문리뷰/  구글, 인공지능 기반 암호화 알고리즘 개발](http://cpuu.postype.com/post/422940/)
 - [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/?utm_content=buffer55654&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [deep-learning-papers-reading-roadmap]
  - [tensorflow](https://tensorflowkorea.wordpress.com/2016/10/25/deep-learning-papers-reading-roadmap/)
