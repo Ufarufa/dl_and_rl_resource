@@ -1,5 +1,6 @@
 # 딥러닝 & 강화 학습 관련 자료들.
 ###Python & tensorflow
+- [learning tensorflow](http://learningtensorflow.com/)
 - [intsatll tensorflow in ubuntu16](http://www.popit.kr/tensorflow-install-ubuntu16/)
 - [python tutorial 5hours](https://www.youtube.com/watch?v=emY34tSKXc4)
 - [python study by MS](https://mva.microsoft.com/ko/training-courses/python%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%86%8C%EA%B0%9C-8360?l=CrrhO0O8_6204984382)
@@ -51,6 +52,7 @@
 - [openai-infrastructure-for-deep-learning](https://openai.com/blog/infrastructure-for-deep-learning/)
 - [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/)
 - [how-to-run-text-summarization-with-TF](https://medium.com/@surmenok/how-to-run-text-summarization-with-tensorflow-d4472587602d#.4cec2w7t3)
+- [해커에게 전해들은 머신러닝](https://tensorflowkorea.wordpress.com/2016/10/31/%ED%95%B4%EC%BB%A4%EC%97%90%EA%B2%8C-%EC%A0%84%ED%95%B4%EB%93%A4%EC%9D%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/)
 - [WaveNet: DeepMind’s New Model for Audio](https://tensorflowkorea.wordpress.com/2016/09/09/wavenet-deepminds-new-model-for-audio/)
 - [Generating Videos with Scene Dynamics](http://web.mit.edu/vondrick/tinyvideo/)
 - [Deep Learning For 이미지 분석 ](https://www.facebook.com/groups/TensorFlowKR/permalink/321214624886269/) 
