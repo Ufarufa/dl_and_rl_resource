@@ -48,6 +48,7 @@
 - [KAIST_Corpus](http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus)
 
 ###Posting
+- [현대적 얼굴 인식](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.m0jnipu5o)
 - [논문리뷰/  구글, 인공지능 기반 암호화 알고리즘 개발](http://cpuu.postype.com/post/422940/)
 - [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/?utm_content=buffer55654&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [deep-learning-papers-reading-roadmap]
