@@ -14,6 +14,7 @@
 - [CS188 2014](https://www.youtube.com/watch?v=IXuHxkpO5E8)
 - [CS188 2016](https://www.youtube.com/watch?v=3aCn2-Slaoc&list=PLIeooNSdhQE5kRrB71yu5yP9BRCJCSbMt)
 - David Sliver (Deep Mind)
+  - [DeepMind Blog](https://deepmind.com/blog/deep-reinforcement-learning/)
 - [John Schulman](https://www.youtube.com/watch?v=aUrX-rP_ss4&index=1&list=PLUdqnrHmtdXQuivfwPyEKi3y5eQJqo1c4)
 - Udacity - Reinforcement Learning
 - [sutton book 2015 ](https://www.dropbox.com/s/b3psxv2r0ccmf80/book2015oct.pdf?dl=0)
