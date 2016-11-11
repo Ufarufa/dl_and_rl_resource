@@ -1,6 +1,8 @@
 # 딥러닝 & 강화 학습 관련 자료들.
 ###Python & tensorflow
-- [머신 러닝 배우기](https://brunch.co.kr/@aidenswmo/2)
+- [머신 러닝 배우기]
+ - [aidenswmo-Korean](https://brunch.co.kr/@aidenswmo/2)
+ - [Machines Can Now Recognize Something After Seeing It Once](https://www.technologyreview.com/s/602779/machines-can-now-recognize-something-after-seeing-it-once/)
 - [learning tensorflow](http://learningtensorflow.com/)
 - [intsatll tensorflow in ubuntu16](http://www.popit.kr/tensorflow-install-ubuntu16/)
 - [python tutorial 5hours](https://www.youtube.com/watch?v=emY34tSKXc4)
