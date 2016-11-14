@@ -26,7 +26,9 @@
 - [인공지능 By SNU](https://www.youtube.com/playlist?list=PLzWH6Ydh35ggVGbBh48TNs635gv2nxkFI)
 - [Introduction to Markov Chain Monte Carlo](http://www.mcmchandbook.net/HandbookChapter1.pdf)
 - [LEARNING REINFORCEMENT LEARNING By Wide ML](http://www.wildml.com/2016/10/learning-reinforcement-learning/#comments)
-- [Hasbiss autumn Lecture](https://www.youtube.com/watch?v=Psk5DLpqp3o)
+- Hasbiss in DeppMind
+  - [Hasbiss autumn Lecture](https://www.youtube.com/watch?v=Psk5DLpqp3o)
+  - [Demis Hassabis discusses his vision ](https://www.youtube.com/watch?v=iHrn2zLFh8Y&index=41&list=WL)
 
 ### Posting
 - [awesome-starcraftAI](https://github.com/SKTBrain/awesome-starcraftAI)
