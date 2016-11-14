@@ -32,6 +32,7 @@
 
 - Recurrent Network
   - LSTM
+   - [소](https://brunch.co.kr/@chris-song/9)
   - RLU
   - E2E ( end to end Memory )
   - [generative-models](https://openai.com/blog/generative-models/)
