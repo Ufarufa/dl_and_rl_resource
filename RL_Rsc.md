@@ -29,6 +29,7 @@
 - [Hasbiss autumn Lecture](https://www.youtube.com/watch?v=Psk5DLpqp3o)
 
 ### Posting
+- [awesome-starcraftAI](https://github.com/SKTBrain/awesome-starcraftAI)
 - [Deep Mind blog](https://deepmind.com/blog)
 - [Deep Mind-Differentiable neural computers- 기학습된 네트워크에서 내용 가져와서 다른 학습](https://deepmind.com/blog/differentiable-neural-computers/)
   - [korean Discription](https://tensorflowkorea.wordpress.com/2016/10/13/deepminds-new-paper-memory-augmented-neural-network/)
