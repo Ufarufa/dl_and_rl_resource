@@ -59,6 +59,7 @@
 - [openai-infrastructure-for-deep-learning](https://openai.com/blog/infrastructure-for-deep-learning/)
 - [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/)
 - [how-to-run-text-summarization-with-TF](https://medium.com/@surmenok/how-to-run-text-summarization-with-tensorflow-d4472587602d#.4cec2w7t3)
+- [introduction-to-deep-learning](http://blog.algorithmia.com/introduction-to-deep-learning-2016/)
 - [해커에게 전해들은 머신러닝](https://tensorflowkorea.wordpress.com/2016/10/31/%ED%95%B4%EC%BB%A4%EC%97%90%EA%B2%8C-%EC%A0%84%ED%95%B4%EB%93%A4%EC%9D%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/)
 - [WaveNet: DeepMind’s New Model for Audio](https://tensorflowkorea.wordpress.com/2016/09/09/wavenet-deepminds-new-model-for-audio/)
 - [Generating Videos with Scene Dynamics](http://web.mit.edu/vondrick/tinyvideo/)
