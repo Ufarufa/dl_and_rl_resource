@@ -29,6 +29,7 @@
 ###Algorithm
 - CNN
   - GoogLe Net ( using InceptionV3 )
+  - [실전 CNN ](http://www.slideshare.net/ssuser77ee21/convolutional-neural-network-in-practice)
 
 - Recurrent Network
   - LSTM
