@@ -53,6 +53,7 @@
 - [Urban Sound Classification](https://tensorflowkorea.wordpress.com/2016/11/06/urban-sound-classification/)
 - [논문리뷰/  구글, 인공지능 기반 암호화 알고리즘 개발](http://cpuu.postype.com/post/422940/)
 - [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/?utm_content=buffer55654&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Random synaptic feedback weights support error backpropagation for deep learning](http://www.nature.com/articles/ncomms13276)
 - [deep-learning-papers-reading-roadmap]
  - [tensorflow](https://tensorflowkorea.wordpress.com/2016/10/25/deep-learning-papers-reading-roadmap/)
  - [github Page](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
