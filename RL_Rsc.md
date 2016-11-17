@@ -41,7 +41,7 @@
 - [딥 강화학습 쉽게 이해하기](http://ddanggle.github.io/ml/ai/cs/2016/09/24/demystifyingDL.html)
 - [Replicating Deep Q Learning with TensorFlow - 한국어](https://www.youtube.com/watch?v=suNNrEHDR-I)
 - [Simple Reinforcement Learning with Tensorflow]
-    -[Part 0: Q-Learning with Tables and Neural Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.6bd9pfsdv) 
+    - [Part 0: Q-Learning with Tables and Neural Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.6bd9pfsdv) 
 - [Simple reinforcement learning ](http://kvfrans.com/simple-algoritms-for-solving-cartpole/)
 - [GP By karpathy](http://karpathy.github.io/2016/05/31/rl/)
 - [Deep Reinforcement Learning: Frontiers and Challenges, IJCAI 2016](https://sites.google.com/site/deeprlijcai16/programme)
