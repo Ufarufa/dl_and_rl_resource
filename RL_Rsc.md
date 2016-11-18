@@ -32,7 +32,9 @@
 
 ### Posting
 - [awesome-starcraftAI](https://github.com/SKTBrain/awesome-starcraftAI)
-- [Deep Mind blog](https://deepmind.com/blog)
+- Deep Mind blog
+    - [blog](https://deepmind.com/blog)
+    - [reinforcement-learning-unsupervised-auxiliary-tasks](https://deepmind.com/blog/reinforcement-learning-unsupervised-auxiliary-tasks/)
 - [Deep Mind-Differentiable neural computers- 기학습된 네트워크에서 내용 가져와서 다른 학습](https://deepmind.com/blog/differentiable-neural-computers/)
   - [korean Discription](https://tensorflowkorea.wordpress.com/2016/10/13/deepminds-new-paper-memory-augmented-neural-network/)
 - [Deep Reinforcement Learning: Playing a Racing Game](https://lopespm.github.io/machine_learning/2016/10/06/deep-reinforcement-learning-racing-game.html)
