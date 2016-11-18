@@ -66,6 +66,7 @@
 
 ###Paper
 - DeepMind Papers : https://deepmind.com/publications.html
+    - [LEARNING TO REINFORCEMENT LEARN](https://arxiv.org/pdf/1611.05763v1.pdf)
 - Learn Mario playing : Evolving Neural Networks through Augmenting Topologies - http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf
 - Playing Atari : Playing Atari with Deep Reinforcement Learning(DQN) - http://arxiv.org/abs/1312.5602
 - Play FlappyBird( DQN imp ) - http://sarvagyavaish.github.io/FlappyBirdRL/
