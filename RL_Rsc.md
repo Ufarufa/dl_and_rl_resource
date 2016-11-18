@@ -31,6 +31,7 @@
   - [Demis Hassabis discusses his vision ](https://www.youtube.com/watch?v=iHrn2zLFh8Y&index=41&list=WL)
 
 ### Posting
+- [딥러닝과 강화 학습으로 나보다 잘하는 쿠키런 AI 구현하기-동강](http://serviceapi.rmcnmv.naver.com/flash/outKeyPlayer.nhn?vid=744982879C4B8D95A768185158158FA1F14E&outKey=V122a39972b8120461b33134a56dad62b1db97657ca107701108d134a56dad62b1db9&controlBarMovable=true&jsCallable=true&skinName=tvcast_white)
 - [awesome-starcraftAI](https://github.com/SKTBrain/awesome-starcraftAI)
 - Deep Mind blog
     - [blog](https://deepmind.com/blog)
