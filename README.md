@@ -113,6 +113,15 @@ creative-applications-of-deep-learning-with-TF](https://www.kadenze.com/courses/
 예를 들어, deep professional singer(일반인의 노래를 가수처럼 바꿔주는 conditional network) 같은 것도 가능할 것 같고요. :)
 기존의 RNN approach보다 "긴 시간"의 정보를 손실 없이 잘 capture해 낼 수 있기에, 시계열 정보 분석에서도 탁월한 성능을 내지 않을까 추측해 봅니다
 - [fast-weights-rnn](https://tensorflowkorea.wordpress.com/2016/10/25/fast-weights-rnn/)
+- [Deep Feature Interpolation for Image Content Changes](https://arxiv.org/abs/1611.05507)
+- [PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection](https://arxiv.org/abs/1608.08021)
+  - [imp](https://github.com/sanghoon/pva-faster-rcnn)
+  - 오늘 AI Korea에 PVANET 논문이 소개되었습니다. 예전에 재밋게 읽었던 논문이고, 1저자이신 김계현 (Kim Kye-Hyeon)님은 Intel Korea에서 현재는 SK T-Brain에 계신 것으로 알고 있습니다. (역시 고급 인력들이 많이 계시는 SK T-Brain이네요. )
+이 논문을 읽으시면서 참고하실 만한 논문을 소개시켜드릴까 합니다. 좀 오래된 논문인데, Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units (https://arxiv.org/abs/1603.05201, ICML 2016) 입니다. 유명하신 이홍락 교수님 그룹에서 나온 논문입니다. 이 논문의 핵심 아이디어는 Concatenated rectified linear unit인데, 간단히 설명드리면, conv_1 ~ 3 정도 아래 conv_layer에서 conv_layer의 값을 negate하고, 원래 값과 그 값을 연결하여 ReLU로 보낸다입니다.
+이 말이 무슨 말이냐면.. 논문의 그림에서 확인하실 수 있겠지만, AlexNet과 같은 네트웍의 낮은 레이어 (conv_1~3)정도의 filter들이 서로 opposite한 filter들이 많이 존재한다는 것을 관찰하였습니다. 그래서 그런 opposite한 filter를 학습 및 계산해주는 대신 filter의 activation 값을 negation해 주고 concatenate 시켜서 넘긴다는 아이디어입니다. 그닥 많은 연산이 필요없는 negation 연산을 통해 학습이 많은 opposite한 filter들을 학습할 필요도 없고 계산할 필요도 없어집니다.
+PVANET의 디자인에서 가장 눈에 띄는 건 이 Concatenated rectified linear unit와 1x1 convolution 등을 이용하여 Inception 개념을 적용한 거라고 보입니다.
+아.. 얘기를 시작한 김에.. 이홍락 교수님 논문에서 발견한 특징은 낮은 레이어의 conv layer의 filter들이 서로 opposite한 경향이 크다는 것이였습니다. 그런데, 최근 Doubly Convolutional Neural Networks (NIPS 2016, https://arxiv.org/abs/1610.09716) 논문에서는 서로 translation을 하였을 경우의 correlation이 상당히 높은 filter들이 많이 존재한다는 것을 관찰하고 그 특성을 이용할 수 있는 방식으로 Double Convolution이라는 개념을 적용하여 논문을 제출하였습니다. 또한 최근 ASP Vision: Optically Computing the First Layer of Convolutional Neural Networks using Angle Sensitive Pixels (https://arxiv.org/abs/1605.03621v3)란 논문을 읽어보면 각 filter들의 Angle에 대한 논의도 보실 수 있을거 같습니다.
+아무튼 -_- 논문이 소개된걸 다시 소개하러 왔다 헛소리만..
 - [OpenAI-Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498v1.pdf)
 - [Video Pixel Networks](https://arxiv.org/pdf/1610.00527v1.pdf)
 - A New Method to Visualize Deep Neural Networks( Deep NN  시각화 ) -  http://arxiv.org/abs/1603.02518v2
