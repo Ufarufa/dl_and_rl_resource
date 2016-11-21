@@ -36,6 +36,10 @@
 - Deep Mind blog
     - [blog](https://deepmind.com/blog)
     - [reinforcement-learning-unsupervised-auxiliary-tasks](https://deepmind.com/blog/reinforcement-learning-unsupervised-auxiliary-tasks/)
+        - [기사](http://m.news.naver.com/read.nhn?oid=092&aid=0002106658&sid1=105&mode=LSD)
+        - 현재 머신러닝은 가공을 거친 데이터를 이용해 학습하는 수퍼바이즈드 러닝, 즉 지도 학습이 주류다. 바둑이 머신러닝과 강화학습에 적합한 것은 19X19라는 정해진 틀 안에서 모든 사건이 이뤄져 데이터의 후가공이 편하기 때문이다. 따라서 수퍼바이즈드 러닝을 쉽게 적용할 수 있다. 바둑 뿐 아니라 장기, 체스와 같은 보드 게임은 이같은 측면에서 모두 비슷하다. 딥마인드가 알파고 전에 테스트한 아타리 게임들도 대부분 한 화면 내에서 이뤄지는 게임들이다.
+여기에 딥마인드가 하나를 더 보탰다. 기존 아타리 게임 에이전트에 보조 작업(auxiliary tasks)을 추가해 3D 게임과 같이 언수퍼바이즈드 러닝, 즉 비지도 학습에 가까운 게임에도 적용할 수 있도록 한 것이다. 이 에이전트의 이름은 언리얼(UNREAL, UNsupervised REinforcement and Auxiliary Learning)로 이전 에이전트보다 학습 능력이 무려 10배 이상 높아져 고수들의 결과의 87%까지 도달할 수 있었다고 한다. 몇몇 스테이지에서는 사람보다도 더 높은 성적을 올렸다. 다른 아타리 게임에서의 성능도 향상돼 사람보다 9배 높은 점수를 따냈다.
+기계학습 부문에서 향후 비지도 학습, 즉 데이터 가공 없이 바로 현장에서 취합하는 데이터를 이용해 학습을 진행할 수 있도록 하는 분야가 각광을 받을 것이라고 들은 바 있다. 아직 연구를 많이 해야 하고 그만큼 가능성도 높다고 한다. 딥마인드가 바로 이같은 비지도학습에서도 한걸음 나아간 것으로 보인다.
     - [Deep Mind-Differentiable neural computers- 기학습된 네트워크에서 내용 가져와서 다른 학습](https://deepmind.com/blog/differentiable-neural-computers/)
         - [korean Discription](https://tensorflowkorea.wordpress.com/2016/10/13/deepminds-new-paper-memory-augmented-neural-network/)
 - [Deep Reinforcement Learning: Playing a Racing Game](https://lopespm.github.io/machine_learning/2016/10/06/deep-reinforcement-learning-racing-game.html)
