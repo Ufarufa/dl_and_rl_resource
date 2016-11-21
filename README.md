@@ -112,6 +112,9 @@ creative-applications-of-deep-learning-with-TF](https://www.kadenze.com/courses/
  - WaveNet architecture를 응용하여 구현한 것으로, 두 개의 dilated conv stack을 묶어서 linear time translation을 구현하였습니다. 응용 범위가 상당히 많을 것 같네요. sequence to sequence linear time transformation filter가 필요한 경우에 적용하면 잘 될 것 같습니다.
 예를 들어, deep professional singer(일반인의 노래를 가수처럼 바꿔주는 conditional network) 같은 것도 가능할 것 같고요. :)
 기존의 RNN approach보다 "긴 시간"의 정보를 손실 없이 잘 capture해 낼 수 있기에, 시계열 정보 분석에서도 탁월한 성능을 내지 않을까 추측해 봅니다
+- [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation]
+  - [paper](https://arxiv.org/abs/1609.08144)
+  - [한국어 설명](http://photohistory.tistory.com/16745)
 - [fast-weights-rnn](https://tensorflowkorea.wordpress.com/2016/10/25/fast-weights-rnn/)
 - [Deep Feature Interpolation for Image Content Changes](https://arxiv.org/abs/1611.05507)
 - [PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection](https://arxiv.org/abs/1608.08021)
