@@ -42,6 +42,7 @@
 기계학습 부문에서 향후 비지도 학습, 즉 데이터 가공 없이 바로 현장에서 취합하는 데이터를 이용해 학습을 진행할 수 있도록 하는 분야가 각광을 받을 것이라고 들은 바 있다. 아직 연구를 많이 해야 하고 그만큼 가능성도 높다고 한다. 딥마인드가 바로 이같은 비지도학습에서도 한걸음 나아간 것으로 보인다.
     - [Deep Mind-Differentiable neural computers- 기학습된 네트워크에서 내용 가져와서 다른 학습](https://deepmind.com/blog/differentiable-neural-computers/)
         - [korean Discription](https://tensorflowkorea.wordpress.com/2016/10/13/deepminds-new-paper-memory-augmented-neural-network/)
+        - [impl](https://github.com/Mostafa-Samir/DNC-tensorflow)
 - [Deep Reinforcement Learning: Playing a Racing Game](https://lopespm.github.io/machine_learning/2016/10/06/deep-reinforcement-learning-racing-game.html)
 - [Deep Reinforcement Learning for Driving Policy](https://www.youtube.com/watch?v=QK0LxA8FWq4&feature=share)
 - [Open Ai 분석-모두의 연구소](http://www.modulabs.co.kr/RL_library/2621)
