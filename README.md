@@ -105,9 +105,9 @@ creative-applications-of-deep-learning-with-TF](https://www.kadenze.com/courses/
 
  
 ###Papers
- - [QUASI-RECURRENT NEURAL NETWORKS]
-   - [paper](https://arxiv.org/pdf/1611.01576v1.pdf)
-   - [영어설명](http://metamind.io/research/new-neural-network-building-block-allows-faster-and-more-accurate-text-understanding/)
+- [QUASI-RECURRENT NEURAL NETWORKS]
+  - [paper](https://arxiv.org/pdf/1611.01576v1.pdf)
+  - [영어설명](http://metamind.io/research/new-neural-network-building-block-allows-faster-and-more-accurate-text-understanding/)
 - [Deepmind-Neural Machine Translation in Linear Time](https://arxiv.org/pdf/1610.10099v1.pdf)
  - WaveNet architecture를 응용하여 구현한 것으로, 두 개의 dilated conv stack을 묶어서 linear time translation을 구현하였습니다. 응용 범위가 상당히 많을 것 같네요. sequence to sequence linear time transformation filter가 필요한 경우에 적용하면 잘 될 것 같습니다.
 예를 들어, deep professional singer(일반인의 노래를 가수처럼 바꿔주는 conditional network) 같은 것도 가능할 것 같고요. :)
