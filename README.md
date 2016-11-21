@@ -50,6 +50,7 @@
 - [KAIST_Corpus](http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus)
 
 ###Posting
+- [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
 - [현대적 얼굴 인식](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.m0jnipu5o)
 - [Deep Learning AI Made More Rational by MIT](https://edgylabs.com/2016/11/16/deep-learning-ai-human/)
 - [Urban Sound Classification](https://tensorflowkorea.wordpress.com/2016/11/06/urban-sound-classification/)
