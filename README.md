@@ -100,6 +100,7 @@
 - [아카데믹 토렌트](http://academictorrents.com/)
 - [
 creative-applications-of-deep-learning-with-TF](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
+- [reddt- begginer wiki](https://www.reddit.com/r/LearnMachineLearning/wiki/reference)
 - EXEM Seminar
   - [뇌과학으로 본 인공지능의 현주소와 미래 01](https://www.youtube.com/watch?v=efWSbITntR0)
   - [EXEM Seminar / 뇌과학으로 본 인공지능의 현주소와 미래 ](https://www.youtube.com/watch?v=48EsevSvoRw)
