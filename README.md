@@ -50,9 +50,12 @@
 - [KAIST_Corpus](http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus)
 
 ###Posting
+- [Tensorflow and deep learning - without at PhD by Martin Görner](https://www.youtube.com/watch?v=vq2nnJ4g6N0&feature=youtu.be)
 - [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
 - [현대적 얼굴 인식](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.m0jnipu5o)
 - [Deep Learning AI Made More Rational by MIT](https://edgylabs.com/2016/11/16/deep-learning-ai-human/)
+- [Our Brains Have a Basic Algorithm That Enables Our Intelligence](http://neurosciencenews.com/brain-algorithm-intelligence-5562/)
+- [NEUROSCIENCE news](http://neurosciencenews.com/neuroscience-topics/neuroscience/)
 - [Urban Sound Classification](https://tensorflowkorea.wordpress.com/2016/11/06/urban-sound-classification/)
 - [논문리뷰/  구글, 인공지능 기반 암호화 알고리즘 개발](http://cpuu.postype.com/post/422940/)
 - [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/?utm_content=buffer55654&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
@@ -114,6 +117,7 @@ creative-applications-of-deep-learning-with-TF](https://www.kadenze.com/courses/
  - WaveNet architecture를 응용하여 구현한 것으로, 두 개의 dilated conv stack을 묶어서 linear time translation을 구현하였습니다. 응용 범위가 상당히 많을 것 같네요. sequence to sequence linear time transformation filter가 필요한 경우에 적용하면 잘 될 것 같습니다.
 예를 들어, deep professional singer(일반인의 노래를 가수처럼 바꿔주는 conditional network) 같은 것도 가능할 것 같고요. :)
 기존의 RNN approach보다 "긴 시간"의 정보를 손실 없이 잘 capture해 낼 수 있기에, 시계열 정보 분석에서도 탁월한 성능을 내지 않을까 추측해 봅니다
+- [Twitter-Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](https://arxiv.org/abs/1609.05158)
 
 - Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation
    - [paper](https://arxiv.org/abs/1609.08144)
