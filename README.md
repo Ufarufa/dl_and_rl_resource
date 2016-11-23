@@ -29,6 +29,7 @@
 ###Algorithm
 - CNN
   - GoogLe Net ( using InceptionV3 )
+    - [CodeLab-Google](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html?index=..%2F..%2Findex#0)
   - [실전 CNN ](http://www.slideshare.net/ssuser77ee21/convolutional-neural-network-in-practice)
 
 - Recurrent Network
