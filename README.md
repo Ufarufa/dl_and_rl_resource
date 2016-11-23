@@ -121,10 +121,12 @@ creative-applications-of-deep-learning-with-TF](https://www.kadenze.com/courses/
 
 - Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation
    - [paper](https://arxiv.org/abs/1609.08144)
-   - [한국어 설명](http://photohistory.tistory.com/16745)
+     - [한국어 설명](http://photohistory.tistory.com/16745)
+     - [english Desc](http://smerity.com/articles/2016/google_nmt_arch.html)
    - [여러가지 언어 한꺼번에 학습](https://arxiv.org/abs/1611.04558)
      - GNMT에 대한 또 다른 논문입니다. 구글 번역에서 지원해야 하는 언어쌍이 수백가지가 넘는데, 이걸 하나하나 학습시키려면 데이터 수도 문제고 시간이 오래 걸리겠죠.
 여러 언어를 동시에 번역하도록 학습했더니 한번도 학습에 사용한 적이 없는 언어쌍에 대해서도 번역이 가능했다고 합니다.
+   - [Zero-Shot Translation with Google’s Multilingual Neural Machine Translation System](https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html)
 - [fast-weights-rnn](https://tensorflowkorea.wordpress.com/2016/10/25/fast-weights-rnn/)
 - [Deep Feature Interpolation for Image Content Changes](https://arxiv.org/abs/1611.05507)
 - [PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection](https://arxiv.org/abs/1608.08021)
