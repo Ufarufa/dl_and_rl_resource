@@ -37,6 +37,7 @@
   - RLU
   - E2E ( end to end Memory )
   - [generative-models](https://openai.com/blog/generative-models/)
+  - [Hyper NetWorks-손글씨 인식 에제](http://blog.otoro.net/2016/09/28/hyper-networks/)
   
 ###Project
 - Magenta 
@@ -118,7 +119,7 @@ creative-applications-of-deep-learning-with-TF](https://www.kadenze.com/courses/
 예를 들어, deep professional singer(일반인의 노래를 가수처럼 바꿔주는 conditional network) 같은 것도 가능할 것 같고요. :)
 기존의 RNN approach보다 "긴 시간"의 정보를 손실 없이 잘 capture해 낼 수 있기에, 시계열 정보 분석에서도 탁월한 성능을 내지 않을까 추측해 봅니다
 - [Twitter-Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](https://arxiv.org/abs/1609.05158)
-
+- [Image-to-Image Translation with Conditional Adversarial Networks-edge to photo](https://arxiv.org/pdf/1611.07004v1.pdf)
 - Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation
    - [paper](https://arxiv.org/abs/1609.08144)
      - [한국어 설명](http://photohistory.tistory.com/16745)
