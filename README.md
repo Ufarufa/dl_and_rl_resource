@@ -52,6 +52,7 @@
 - [KAIST_Corpus](http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus)
 
 ###Posting
+- [GAN & PixelCNN - New Paper- Korean](https://tensorflow.blog/2016/11/24/gan-pixelcnn/)
 - [Tensorflow and deep learning - without at PhD by Martin Görner](https://www.youtube.com/watch?v=vq2nnJ4g6N0&feature=youtu.be)
 - [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
 - [현대적 얼굴 인식](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.m0jnipu5o)
@@ -123,6 +124,7 @@ creative-applications-of-deep-learning-with-TF](https://www.kadenze.com/courses/
 기존의 RNN approach보다 "긴 시간"의 정보를 손실 없이 잘 capture해 낼 수 있기에, 시계열 정보 분석에서도 탁월한 성능을 내지 않을까 추측해 봅니다
 - [Twitter-Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](https://arxiv.org/abs/1609.05158)
 - [Image-to-Image Translation with Conditional Adversarial Networks-edge to photo](https://arxiv.org/pdf/1611.07004v1.pdf)
+  - [Korean](https://tensorflow.blog/2016/11/24/gan-pixelcnn/)
 - Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation
    - [paper](https://arxiv.org/abs/1609.08144)
      - [한국어 설명](http://photohistory.tistory.com/16745)
