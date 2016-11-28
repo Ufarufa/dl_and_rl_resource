@@ -55,6 +55,8 @@
 - [Tensorflow and deep learning - without at PhD by Martin Görner](https://www.youtube.com/watch?v=vq2nnJ4g6N0&feature=youtu.be)
 - [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
 - [현대적 얼굴 인식](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.m0jnipu5o)
+- [Bayesian Deep Learning Part II: Bridging PyMC3 and Lasagne to build a Hierarchical Neural Network](https://www.opendatascience.com/blog/bayesian-deep-learning-part-ii-bridging-pymc3-and-lasagne-to-build-a-hierarchical-neural-network/?utm_source=Open+Data+Science+Newsletter&utm_campaign=d7d409aef5-EMAIL_CAMPAIGN_2016_11_21&utm_medium=email&utm_term=0_2ea92bb125-d7d409aef5-245860601)
+- [Understanding Convolutional Neural Networks for NLP](https://www.opendatascience.com/blog/understanding-convolutional-neural-networks-for-nlp/?+Data+Science+Newsletter&utm_term=0_2ea92bb125-d7d409aef5-245860601)
 - [Deep Learning AI Made More Rational by MIT](https://edgylabs.com/2016/11/16/deep-learning-ai-human/)
 - [Our Brains Have a Basic Algorithm That Enables Our Intelligence](http://neurosciencenews.com/brain-algorithm-intelligence-5562/)
 - [NEUROSCIENCE news](http://neurosciencenews.com/neuroscience-topics/neuroscience/)
