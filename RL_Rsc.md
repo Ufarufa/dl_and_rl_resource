@@ -81,6 +81,9 @@
 - [Multi-Objective Deep Reinforcement Learning](https://arxiv.org/abs/1610.02707)
 - [Towards Deep Symbolic Reinforcement Learning](https://arxiv.org/pdf/1609.05518.pdf)
 - DeepMind Papers
+  - [ Agent의 내적 동인으로 '통제감'을 만들어 넣어 보여주고-Variational Intrinsic Control](https://arxiv.org/abs/1611.07507)
+    - DeepMind의 새 AI 논문입니다. Agent의 내적 동인으로 '통제감'을 만들어 넣어 보여주고 있습니다. 영화 등에서 다루는 두려운 존재로서의 AI가 탄생 가능할 것 같다는 생각이 드는... 연구네요.
+(인간의 내적 동인 이론인 SDT(http://selfdeterminationtheory.org/) 에서는 주 동인으로 Autonomy, Mastery, Relatedness를 열거하고 있습니다. 이 중에서, 이번 연구는 agent가 autonomy, mastery를 추구하도록 하는 것으로 보입니다.)
   - [DeepMind-Early Visual Concept Learning with Unsupervised Deep Learning](https://arxiv.org/pdf/1606.05579.pdf)
   - [DeepMind-Conditional Image Generation with PixelCNN Decoders](https://arxiv.org/pdf/1606.05579.pdf)
   - [DeepMind-Asynchronous Methods for Deep Reinforcement Learning](http://arxiv.org/pdf/1602.01783.pdf)
