@@ -52,6 +52,7 @@
 - [KAIST_Corpus](http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus)
 
 ###Posting
+- [Long paper review of Attend, Infer, Repeat: Fast Scene Understanding with Generative Models](https://theinformationageblog.wordpress.com/2016/11/24/long-paper-review-of-attend-infer-repeat-fast-scene-understanding-with-generative-models/)
 - [GAN & PixelCNN - New Paper- Korean](https://tensorflow.blog/2016/11/24/gan-pixelcnn/)
 - [Tensorflow and deep learning - without at PhD by Martin Görner](https://www.youtube.com/watch?v=vq2nnJ4g6N0&feature=youtu.be)
 - [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
