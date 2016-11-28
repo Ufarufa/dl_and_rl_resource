@@ -169,6 +169,7 @@ PVANET의 디자인에서 가장 눈에 띄는 건 이 Concatenated rectified li
 AdaNet이나 Collaborative Layer-wise Discriminative Learning 같은 경우는 skip connection을 상황에 맞게 늘리는 것으로 이해했습니다. (물론 제가 맞는지 저도 모른다는거..) 비교할만한 성능이 제시 안 되어 있어 비교는 힘들지만, deep learning이라는 점에서 무식해 보이는 densenet이 오히려 좋을 수 있을거라는 생각이 듭니다. 학습 과정에서 또 알아서 최적화를 해 버릴 수 있다는 이상한 예감이....
  
 ###구현 
+- [Awesome Tensorflow Implementations](https://github.com/TensorFlowKR/awesome_tensorflow_implementations)
 - deep-learning-for-chatbots : http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/
 - [Caption Gen, slide Shaer](http://www.slideshare.net/ssuser06e0c5/a-neural-image-caption-generator)
 - [Papers implemented By Tensorflow](https://github.com/LeavesBreathe/tensorflow_with_latest_papers)
