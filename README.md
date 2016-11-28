@@ -23,6 +23,7 @@
 - https://twitter.com/DeepLearningHub
 - https://twitter.com/jackclarksf
 - https://twitter.com/karpathy
+- https://twitter.com/AdaptiveAgents
 - [논문 설명]https://github.com/karpathy/paper-notes
 
 ## Deep Learning
