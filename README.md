@@ -53,8 +53,10 @@
 - [KAIST_Corpus](http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus)
 
 ###Posting
+- [GRAM: Graph-based Attention Model. A better learning representation ?](https://theinformationageblog.wordpress.com/2016/11/29/gram-graph-based-attention-model-a-better-learning-representation/)
 - [Long paper review of Attend, Infer, Repeat: Fast Scene Understanding with Generative Models](https://theinformationageblog.wordpress.com/2016/11/24/long-paper-review-of-attend-infer-repeat-fast-scene-understanding-with-generative-models/)
 - [GAN & PixelCNN - New Paper- Korean](https://tensorflow.blog/2016/11/24/gan-pixelcnn/)
+  - [PixelCNN [1601.06759] Summary-한글](https://tensorflow.blog/2016/11/29/pixelcnn-1601-06759-summary/)
 - [Tensorflow and deep learning - without at PhD by Martin Görner](https://www.youtube.com/watch?v=vq2nnJ4g6N0&feature=youtu.be)
 - [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
 - [현대적 얼굴 인식](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.m0jnipu5o)
