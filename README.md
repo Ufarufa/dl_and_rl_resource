@@ -8,6 +8,8 @@
 - [python tutorial 5hours](https://www.youtube.com/watch?v=emY34tSKXc4)
 - [python study by MS](https://mva.microsoft.com/ko/training-courses/python%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%86%8C%EA%B0%9C-8360?l=CrrhO0O8_6204984382)
 - [python 이해하기](http://www.slideshare.net/dahlmoon/python-20160815)
+- [딥러닝을 위한 기초 수학](http://www.slideshare.net/theeluwin/ss-69596991)
+- [파이썬 class 및 인스턴스 생성 이해하기](http://www.slideshare.net/dahlmoon/array-20160317?from_m_app=ios)
 - [Node.js by MS](https://mva.microsoft.com/en-US/training-courses/using-nodejs-with-visual-studio-code-13920?l=nSEpCdzbB_001937557)
 - [neural-networks-and-tensorflow-introduction](https://tensorflowkorea.wordpress.com/2016/08/23/dl-with-neural-networks-and-tensorflow-introduction/)
 - [R에서 파이썬까지…데이터과학 학습 사이트 8곳](http://www.bloter.net/archives/237013?rccode=lvRc)
@@ -53,6 +55,7 @@
 - [KAIST_Corpus](http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus)
 
 ###Posting
+- [사진을 애니메이션으로 -This Algorithm Taught Itself to Animate a Still Photo- ](http://motherboard.vice.com/read/researchers-taught-a-machine-how-to-generate-the-next-frames-in-a-video)
 - [당뇨성 망막병증 - 구글](https://research.googleblog.com/2016/11/deep-learning-for-detection-of-diabetic.html)
   - 오늘 소개해 드릴 논문은 "Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs" (JAMA, http://jamanetwork.com/journals/jama/fullarticle/2588763) 입니다. 
 구글의 연구인데, 관련 블로그 내용은 https://research.googleblog.com/…/deep-learning-for-detecti… 입니다.
