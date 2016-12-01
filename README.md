@@ -1,20 +1,5 @@
 # 딥러닝 & 강화 학습 관련 자료들.
-###Python & tensorflow
-- [머신 러닝 배우기]
- - [aidenswmo-Korean](https://brunch.co.kr/@aidenswmo/2)
- - [Machines Can Now Recognize Something After Seeing It Once](https://www.technologyreview.com/s/602779/machines-can-now-recognize-something-after-seeing-it-once/)
-- [learning tensorflow](http://learningtensorflow.com/)
-- [intsatll tensorflow in ubuntu16](http://www.popit.kr/tensorflow-install-ubuntu16/)
-- [python tutorial 5hours](https://www.youtube.com/watch?v=emY34tSKXc4)
-- [python study by MS](https://mva.microsoft.com/ko/training-courses/python%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%86%8C%EA%B0%9C-8360?l=CrrhO0O8_6204984382)
-- [python 이해하기](http://www.slideshare.net/dahlmoon/python-20160815)
-- [딥러닝을 위한 기초 수학](http://www.slideshare.net/theeluwin/ss-69596991)
-- [파이썬 class 및 인스턴스 생성 이해하기](http://www.slideshare.net/dahlmoon/array-20160317?from_m_app=ios)
-- [Node.js by MS](https://mva.microsoft.com/en-US/training-courses/using-nodejs-with-visual-studio-code-13920?l=nSEpCdzbB_001937557)
-- [neural-networks-and-tensorflow-introduction](https://tensorflowkorea.wordpress.com/2016/08/23/dl-with-neural-networks-and-tensorflow-introduction/)
-- [R에서 파이썬까지…데이터과학 학습 사이트 8곳](http://www.bloter.net/archives/237013?rccode=lvRc)
-- [Artificial Intelligence Open Network](http://ai-on.org/projects/)
- - [github](https://github.com/AI-ON/ai-on.org)
+
 
 [유사 논문 검색기](http://www.arxiv-sanity.com/top)
 
@@ -201,5 +186,22 @@ AdaNet이나 Collaborative Layer-wise Discriminative Learning 같은 경우는 s
 - [fast waveNet 구현](https://github.com/tomlepaine/fast-wavenet)
 
 
-
+###Python & tensorflow
+- [수학 & 딥러닝 블로그](http://blog.theeluwin.kr/)
+- [머신 러닝 배우기]
+ - [aidenswmo-Korean](https://brunch.co.kr/@aidenswmo/2)
+ - [Machines Can Now Recognize Something After Seeing It Once](https://www.technologyreview.com/s/602779/machines-can-now-recognize-something-after-seeing-it-once/)
+- [learning tensorflow](http://learningtensorflow.com/)
+  - [2](http://theeluwin.kr/)
+- [intsatll tensorflow in ubuntu16](http://www.popit.kr/tensorflow-install-ubuntu16/)
+- [python tutorial 5hours](https://www.youtube.com/watch?v=emY34tSKXc4)
+- [python study by MS](https://mva.microsoft.com/ko/training-courses/python%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%86%8C%EA%B0%9C-8360?l=CrrhO0O8_6204984382)
+- [python 이해하기](http://www.slideshare.net/dahlmoon/python-20160815)
+- [딥러닝을 위한 기초 수학](http://www.slideshare.net/theeluwin/ss-69596991)
+- [파이썬 class 및 인스턴스 생성 이해하기](http://www.slideshare.net/dahlmoon/array-20160317?from_m_app=ios)
+- [Node.js by MS](https://mva.microsoft.com/en-US/training-courses/using-nodejs-with-visual-studio-code-13920?l=nSEpCdzbB_001937557)
+- [neural-networks-and-tensorflow-introduction](https://tensorflowkorea.wordpress.com/2016/08/23/dl-with-neural-networks-and-tensorflow-introduction/)
+- [R에서 파이썬까지…데이터과학 학습 사이트 8곳](http://www.bloter.net/archives/237013?rccode=lvRc)
+- [Artificial Intelligence Open Network](http://ai-on.org/projects/)
+ - [github](https://github.com/AI-ON/ai-on.org)
 
