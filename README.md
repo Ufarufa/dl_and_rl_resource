@@ -55,10 +55,9 @@
     - I am very excited to announce our latest paper. It introduces “Plug & Play Generative Networks,” which we believe represents a state of the art generative model* and deep visualization method. What do you think? We’re excited to see what the community does with PPGNs! Note that the below images are synthetic images produced by deep neural networks (a form of AI).  
 
 Nguyen A, Yosinski J, Bengio Y, Dosovitskiy A, Clune J (2016) Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space. arXiv 1738978 (submitted). PDF and more available here: http://www.evolvingai.org/ppgn  
-http://www.dongascience.com/news/view/15092
 Thanks to all of the wonderfully talented coauthors, especially lead author Anh Nguyen!  
 
-* With the following caveats: (1) evaluating generative models must be done qualitatively, as all quantitative approaches are riddled with problems and humans are still the best evaluators even if they are subjective and imperfect, (2) for high-resolution images (~ImageNet size) and in terms of both image quality and diversity at high-res.  
+// With the following caveats: (1) evaluating generative models must be done qualitatively, as all quantitative approaches are riddled with problems and humans are still the best evaluators even if they are subjective and imperfect, (2) for high-resolution images (~ImageNet size) and in terms of both image quality and diversity at high-res  
 
 - [Broca and Wernicke Are Dead – It’s Time to Rewrite the Neurobiology of Language](http://neurosciencenews.com/broca-and-wernicke-are-dead-its-time-to-rewrite-the-neurobiology-of-language/
 I am very excited to announce our latest paper. It introduces “Plug & Play Generative Networks,” which we believe represents a state of the art generative model* and deep visualization method. What do you think? We’re excited to see what the community does with PPGNs! Note that the below images are synthetic images produced by deep neural networks (a form of AI).
