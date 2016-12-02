@@ -40,11 +40,22 @@
 - [KAIST_Corpus](http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus)
 
 ###Posting
+- [뇌의 단기기억](http://www.dongascience.com/news/view/15092)
+    - 스치고 지나간 사람의 얼굴도 뇌는 기억한다.
+단기 기억 사실도 모두 뇌에 기록된다.
+헬리콥터를 타고 시가지를 한번 돌아보고 
+도시 전체의 상세한 그림을 사진을 찍은 듯이 
+기억해서 그리는 서번트 기능을 이해할 수 있을 듯.
+일반인도 누구나 한번번 것을 사진을 찍듯이 뇌에 저장한다. 
+단지 재생하는 스위치를 켜지 못할 뿐.
+“이번 연구는 단기기억은 휴면 상태에 있을 뿐 반복해서 상기시키지 않아도 사라지지 않는다는 사실을 밝혀낸 것”이라며 “단기기억도 얼마든지 재생이 가능하다는 뜻”
+- [얀쿤 교수님 !!! - 6가지 기초 AI](https://code.facebook.com/posts/384869298519962/artificial-intelligence-revealed/)
+- [CNN 기초-조대협](http://bcho.tistory.com/1149)
 - [Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space](http://www.evolvingai.org/ppgn)
-I am very excited to announce our latest paper. It introduces “Plug & Play Generative Networks,” which we believe represents a state of the art generative model* and deep visualization method. What do you think? We’re excited to see what the community does with PPGNs! Note that the below images are synthetic images produced by deep neural networks (a form of AI).  
+    - I am very excited to announce our latest paper. It introduces “Plug & Play Generative Networks,” which we believe represents a state of the art generative model* and deep visualization method. What do you think? We’re excited to see what the community does with PPGNs! Note that the below images are synthetic images produced by deep neural networks (a form of AI).  
 
 Nguyen A, Yosinski J, Bengio Y, Dosovitskiy A, Clune J (2016) Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space. arXiv 1738978 (submitted). PDF and more available here: http://www.evolvingai.org/ppgn  
-
+http://www.dongascience.com/news/view/15092
 Thanks to all of the wonderfully talented coauthors, especially lead author Anh Nguyen!  
 
 * With the following caveats: (1) evaluating generative models must be done qualitatively, as all quantitative approaches are riddled with problems and humans are still the best evaluators even if they are subjective and imperfect, (2) for high-resolution images (~ImageNet size) and in terms of both image quality and diversity at high-res.  
