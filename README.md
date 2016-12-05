@@ -40,6 +40,9 @@
 - [KAIST_Corpus](http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus)
 
 ###Posting
+- [Model based ML](http://mbmlbook.com/index.html)
+- [Deep Learning the Stock Market](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02#.pi425qopy)
+- [How the brain recognizes faces](http://news.mit.edu/2016/machine-learning-system-brain-recognizes-faces-1201) 
 - [Convergent Learning: Do different neural networks learn the same representations?](http://videolectures.net/iclr2016_yosinski_convergent_learning/)
 - [뇌의 단기기억](http://www.dongascience.com/news/view/15092)
     - 스치고 지나간 사람의 얼굴도 뇌는 기억한다.  
