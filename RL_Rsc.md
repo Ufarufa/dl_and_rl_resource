@@ -71,8 +71,7 @@
 
 
 ###Paper
-- DeepMind Papers : https://deepmind.com/publications.html
-    - [LEARNING TO REINFORCEMENT LEARN](https://arxiv.org/pdf/1611.05763v1.pdf)
+
 - Learn Mario playing : Evolving Neural Networks through Augmenting Topologies - http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf
 - Playing Atari : Playing Atari with Deep Reinforcement Learning(DQN) - http://arxiv.org/abs/1312.5602
 - Play FlappyBird( DQN imp ) - http://sarvagyavaish.github.io/FlappyBirdRL/
@@ -80,7 +79,9 @@
 - [Episodic Exploration for Deep Deterministic Policies: An Application to StarCraft Micromanagement Tasks](http://arxiv.org/abs/1609.02993)
 - [Multi-Objective Deep Reinforcement Learning](https://arxiv.org/abs/1610.02707)
 - [Towards Deep Symbolic Reinforcement Learning](https://arxiv.org/pdf/1609.05518.pdf)
-- DeepMind Papers
+- DeepMind Papers : https://deepmind.com/publications.html
+  - [DeepMind-Nips2016 papers-part1](https://deepmind.com/blog/deepmind-papers-nips-part-1/)
+  - [LEARNING TO REINFORCEMENT LEARN](https://arxiv.org/pdf/1611.05763v1.pdf)
   - [ Agent의 내적 동인으로 '통제감'을 만들어 넣어 보여주고-Variational Intrinsic Control](https://arxiv.org/abs/1611.07507)
     - DeepMind의 새 AI 논문입니다. Agent의 내적 동인으로 '통제감'을 만들어 넣어 보여주고 있습니다. 영화 등에서 다루는 두려운 존재로서의 AI가 탄생 가능할 것 같다는 생각이 드는... 연구네요.
 (인간의 내적 동인 이론인 SDT(http://selfdeterminationtheory.org/) 에서는 주 동인으로 Autonomy, Mastery, Relatedness를 열거하고 있습니다. 이 중에서, 이번 연구는 agent가 autonomy, mastery를 추구하도록 하는 것으로 보입니다.)
