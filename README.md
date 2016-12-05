@@ -40,6 +40,7 @@
 - [KAIST_Corpus](http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus)
 
 ###Posting
+- [Convergent Learning: Do different neural networks learn the same representations?](http://videolectures.net/iclr2016_yosinski_convergent_learning/)
 - [뇌의 단기기억](http://www.dongascience.com/news/view/15092)
     - 스치고 지나간 사람의 얼굴도 뇌는 기억한다.  
 단기 기억 사실도 모두 뇌에 기록된다.  
@@ -145,6 +146,12 @@ creative-applications-of-deep-learning-with-TF](https://www.kadenze.com/courses/
 
  
 ###Papers
+- [A state of the art generative model : Plug and Play Generative Networks](http://www.evolvingai.org/ppgn)
+  - I am very excited to announce our latest paper. It introduces “Plug & Play Generative Networks,” which we believe represents a state of the art generative model* and deep visualization method. What do you think? We’re excited to see what the community does with PPGNs! Note that the below images are synthetic images produced by deep neural networks (a form of AI).  
+Nguyen A, Yosinski J, Bengio Y, Dosovitskiy A, Clune J (2016) Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space. arXiv 1738978 (submitted). PDF and more available here: http://www.evolvingai.org/ppgn  
+https://arxiv.org/abs/1612.00005  
+Thanks to all of the wonderfully talented coauthors, especially lead author Anh Nguyen!  
+With the following caveats: (1) evaluating generative models must be done qualitatively, as all quantitative approaches are riddled with problems and humans are still the best evaluators even if they are subjective and imperfect, (2) for high-resolution images (~ImageNet size) and in terms of both image quality and diversity at high-res  
 - [QUASI-RECURRENT NEURAL NETWORKS]
   - [paper](https://arxiv.org/pdf/1611.01576v1.pdf)
   - [영어설명](http://metamind.io/research/new-neural-network-building-block-allows-faster-and-more-accurate-text-understanding/)
