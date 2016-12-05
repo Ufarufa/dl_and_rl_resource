@@ -146,6 +146,13 @@ creative-applications-of-deep-learning-with-TF](https://www.kadenze.com/courses/
 
  
 ###Papers
+- [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167)
+  - 오늘 소개시켜드릴 논문은 "Designing Neural Network Architectures using Reinforcement Learning" (Under review as a conference paper at ICLR 2017, https://arxiv.org/abs/1611.02167)입니다. Media Laboratory에서 나온 논문으로.. 제목에서 아시겠지만 제한적이지만, 그동안 딥러닝을 공부하면 늘 하던 질문에 답을 던지려하는 논문입니다.  
+딥러닝 관련해서 세미나에 참석해 보면 많은 분들이 던지는 질문 중 하나가 "네트웍을 어떻게 디자인하냐?"였습니다. 벤지오 교수님은.."일단 될 때까지 쌓아보세요~"라고 대답하신 걸 봤고, karpathy는 히어로가 되지 말고 많은 분들이 해 놓으신걸 가져다 쓰시는게 낫다라고도 했던거 같습니다.  
+이 논문은 Reinforcement learning을 이용하여 자동적 (제한적인... 자동적)으로 neural network 구조를 디자인해 보자입니다. layer이 디자인 요소를 액션으로 그리고 validation accuracy을 reward로 하는 Q-learning을 통해 neural network 구조를 자동적으로 만들어 주는 구조입니다.  
+물론.. 제약사항이 따릅니다. 일단 action이 어떻게 될지 미리 정해 줘야 하기에 layer가 어떻게 구성될지의 관한 방식은 정해져있습니다. 그래서 많은 논문에서 나왔던 창의적인 방법이 들어갈 요소가 나올 수는 없는 구조이고, 그리고 아직 최대 layer 갯수등의 제약 사항이 들어가 줘야 합니다. 그리고 뭐.. 예상하시겠지만 .. 정말 많은 모델이 실험되어야 하는 구조이죠.  
+그러나 충분히 재밋는 어프로치이고, 많은 분들이 가능성은 제기했던 방식이지만 이렇게 논문으로 딱 되요!! 라고 보니 반갑습니다. 저도 아침에 잠시 짬내어 대강 훑어본 수준이라 다시 한번 읽어봐야겠네요.  
+그런데.. 곧 NIPS 논문도 쏟아지겠지만, ICLR은 작은 학회임에도 재밋는 논문이 많네요. 많은 논문 중 어떤 논문이 오랄섹션에 가게될지 기대되네요.  
 - [A state of the art generative model : Plug and Play Generative Networks](http://www.evolvingai.org/ppgn)
   - I am very excited to announce our latest paper. It introduces “Plug & Play Generative Networks,” which we believe represents a state of the art generative model* and deep visualization method. What do you think? We’re excited to see what the community does with PPGNs! Note that the below images are synthetic images produced by deep neural networks (a form of AI).  
 Nguyen A, Yosinski J, Bengio Y, Dosovitskiy A, Clune J (2016) Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space. arXiv 1738978 (submitted). PDF and more available here: http://www.evolvingai.org/ppgn  
