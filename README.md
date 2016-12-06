@@ -126,6 +126,7 @@ inception-v3 기반으로 이미지넷 기반 선학습된 모델을 사용, 당
 - [distributed-tensorflow](https://tensorflowkorea.wordpress.com/2016/07/17/distributed-tensorflow-design-patterns-and-best-practices/)
 
 ###Lecture
+- [ML Book- By andrew Ag](https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_01.pdf)
 - sung kim - https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
 - CS231n: [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) / [Video](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) /[강의 노트 한글](http://ishuca.tistory.com/category/CS231n)
 - Kmooc :
@@ -146,6 +147,7 @@ creative-applications-of-deep-learning-with-TF](https://www.kadenze.com/courses/
 
  
 ###Papers
+- [Neural Network-based Automatic Image Colorization](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/en/)
 - [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167)
   - 오늘 소개시켜드릴 논문은 "Designing Neural Network Architectures using Reinforcement Learning" (Under review as a conference paper at ICLR 2017, https://arxiv.org/abs/1611.02167)입니다. Media Laboratory에서 나온 논문으로.. 제목에서 아시겠지만 제한적이지만, 그동안 딥러닝을 공부하면 늘 하던 질문에 답을 던지려하는 논문입니다.  
 딥러닝 관련해서 세미나에 참석해 보면 많은 분들이 던지는 질문 중 하나가 "네트웍을 어떻게 디자인하냐?"였습니다. 벤지오 교수님은.."일단 될 때까지 쌓아보세요~"라고 대답하신 걸 봤고, karpathy는 히어로가 되지 말고 많은 분들이 해 놓으신걸 가져다 쓰시는게 낫다라고도 했던거 같습니다.  
