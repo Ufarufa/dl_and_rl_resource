@@ -78,6 +78,25 @@
 ###Environment
 - [Universe: Measurement and training for AI-openAI](https://tensorflow.blog/2016/12/05/universe-measurement-and-training-for-ai/)
 - [Open-sourcing DeepMind Lab](https://deepmind.com/blog/open-sourcing-deepmind-lab/)
+- [Environment disc By Yann LeCun]
+  - Three companies are announcing three different environments that use games and virtual environments for AI research:  
+TorchCraft (Facebook): https://github.com/TorchCraft/TorchCraft  
+DeepMind Lab (DeepMind): https://deepmind.com/blog/open-sourcing-deepmind-lab/  
+OpenAI Universe (OpenAI): https://universe.openai.com/  
+Why is everyone so interested in games?  
+Well, few AI researchers are *actually* interested in games from the professional standpoint (with the notable exception of my dear colleague Julian Togelius !).  
+But one of the big obstacles to progress in AI is the construction and testing of complete AI agents that perceive, reason, remember, and act in complex environments.  
+AI systems must be able to model their environment, predict the consequence of their actions, identify causal relationships so they can act in ways that will influence the environment.  
+In my opinion, designing methods that will allow AI systems to learn good predictive models of the world in an unsupervised manner is one of the biggest challenges of AI research today.  
+AI systems in complex environments also need to have basic drives and motivations that will make them do what they are supposed to do in a safe and efficient way. This can be encoded in objective functions that provide intrinsic motivations for AI systems.  
+With a predictive world model and an objective function that provides intrinsic motivations, an AI agent also needs to be able to produce action sequences that will make the environment reach a state that optimizes the objective. This is the problem of planning under uncertainty.  
+To perform long-term planning, an AI agent needs to be able to decompose a complex task into subtasks, or replace a long-term goal by a series of sub-goals, or replace a long-term objective by a series short-term surrogate objectives.  
+Certain games provide good environment for developing, experimenting and testing AI methods and principles to solve all the above problems.  
+Of course, one could also use physical robots and real-world tasks to develop these techniques, but progress would be slow because there are two major problems with the real world:  
+>1. it is difficult to reproduce results, and more importantly...  
+>2. The main problem with the real world is that you can't run it faster than real time.  
+So, AI research labs do not work on games because they are frivolous. They work on games because the virtual environments provided by games give a perfect playground in which to make fast and measurable progress in unsupervised learning, reasoning, hierarchical planning and reasoning, causal inference, and a host of other problems.  
+In parallel, the methods developed in the context of virtual environments, combined with other research in computer perception, natural language processing, theoretical insights, and algorithmic advances, will enable us to develop dialogue agents, intelligent virtual assistants, all-knowing question-answering systems, and intelligent robots.  
 
 ###Paper
 
