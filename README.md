@@ -40,6 +40,7 @@
 - [KAIST_Corpus](http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus)
 
 ###Posting
+- [A top Google researcher talks about increasingly intelligent computers-jeff-dean](http://fortune.com/2016/11/26/google-artificial-intelligence-jeff-dean/)
 - [Model based ML](http://mbmlbook.com/index.html)
 - [Deep Learning the Stock Market](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02#.pi425qopy)
 - [How the brain recognizes faces](http://news.mit.edu/2016/machine-learning-system-brain-recognizes-faces-1201) 
