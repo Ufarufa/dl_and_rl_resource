@@ -148,6 +148,7 @@ creative-applications-of-deep-learning-with-TF](https://www.kadenze.com/courses/
 
  
 ###Papers
+- [SamepleRNN-ICLR2017-Gen Audio ](https://github.com/soroushmehr/sampleRNN_ICLR2017)
 - [Neural Network-based Automatic Image Colorization](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/en/)
 - [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167)
   - 오늘 소개시켜드릴 논문은 "Designing Neural Network Architectures using Reinforcement Learning" (Under review as a conference paper at ICLR 2017, https://arxiv.org/abs/1611.02167)입니다. Media Laboratory에서 나온 논문으로.. 제목에서 아시겠지만 제한적이지만, 그동안 딥러닝을 공부하면 늘 하던 질문에 답을 던지려하는 논문입니다.  
