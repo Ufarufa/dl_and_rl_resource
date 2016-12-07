@@ -76,6 +76,19 @@
   - [Generative Adversarial Networks (GANs) tutorial](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)
   - [Deep	Reinforcement	Learning through Policy Optimiztion-Jhon schulman](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-policy-optimization-Schulman-Abbeel.pdf)
   - [NIPS-KeyNotes Yann Le Cun](https://drive.google.com/file/d/0BxKBnD5y2M8NREZod0tVdW5FLTQ/view)
+    - I made the following main points:  
+>1. supervised learning works well if you have lots of labeled data  
+>2. But it's insufficient if we want machines to learn enough about how the world works to acquire "common sense"  
+>3. The only way for machines to acquire common sense is to observe the world and act in it, like humans and animals.  
+>4. To become more intelligent, machines will need to learn predictive models of the world.   
+>5. Entity RNN is a new model that maintains an estimate of the state of the world from textual descriptions of events.  
+>6. It is the only model that can solve all 20 of the bAbI tasks with good accuracy.  
+>7. predictive world models can be used for intelligent planning and learning by playing out actions sequences and simulating the result without actually affecting the world.  
+>8. But they also need to learn in a goal-directed fashion. This is a plea for model-based reinforcement learning.  
+>9. Predictive learning can be formulated in an energy-based framework. It comes down to learning to predict with uncertainty.  
+>10. The most promising idea for learning under uncertainty is adversarial training.  
+>11. energy-based generative adversarial networks can synthesize high-resolution images.  
+>12. adversarial training enables the training of video prediction systems and get around the "blurry prediction" problem of least-square criteria.  
 
 ###Environment
 - [Universe: Measurement and training for AI-openAI](https://tensorflow.blog/2016/12/05/universe-measurement-and-training-for-ai/)
