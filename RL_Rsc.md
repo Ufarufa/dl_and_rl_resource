@@ -74,6 +74,7 @@
 - [NIPS-2016]
   - [Deep Reinforcement Learning Workshop, NIPS 2016](https://sites.google.com/site/deeprlnips2016/)
   - [Generative Adversarial Networks (GANs) tutorial](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)
+  - [Deep	Reinforcement	Learning through Policy Optimiztion-Jhon schulman](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-policy-optimization-Schulman-Abbeel.pdf)
 
 ###Environment
 - [Universe: Measurement and training for AI-openAI](https://tensorflow.blog/2016/12/05/universe-measurement-and-training-for-ai/)
