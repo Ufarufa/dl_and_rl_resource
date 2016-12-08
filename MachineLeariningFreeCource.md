@@ -19,13 +19,14 @@ Numerical Linear Algebra by Lloyd N. Trefethen, David Bau, III Google Books
 Introduction to Probability by Charles M. Grinstead and Laurie Snellpdf  
 All of Statistics by Larry Wasserman pdf  
 
-###Introductory Machine Learning
+##Introductory Machine Learning
 Introduction to Machine Learning by Alex Smola and S.V.N. Vishwanathan pdf  
 Introduction to Machine Learning - The Wikipedia Guide by Nixonite pdf  
 Introduction to Machine Learning by Ethem Alpaydin pdf  
 
 ##Computer Vision
 Computer Vision: Algorithms and Applications by Richard Szeliski pdf  
+
 ##Reinforcement Learning
 Introduction to Reinforcement Learning by Sutton and Barto html  
 
