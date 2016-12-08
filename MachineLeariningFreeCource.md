@@ -1,19 +1,19 @@
 #Mathematics
  
-##Calculus
-Calculus by Gilbert Strang pdf
+ ##Calculus
+ Calculus by Gilbert Strang pdf
 
-##Linear Algebra
-Linear Algebra by Jim Hefferon pdf
+ ##Linear Algebra
+ Linear Algebra by Jim Hefferon pdf
 
-##More Linear Algebra
-Linear Algebra Done Right by Sheldon Axler pdf  
-Advanced Linear Algebra by Steven Roman pdf  
-Advanced Linear Algebra by Bruce E. Shapiro pdf  
+ ##More Linear Algebra
+ Linear Algebra Done Right by Sheldon Axler pdf  
+ Advanced Linear Algebra by Steven Roman pdf  
+ Advanced Linear Algebra by Bruce E. Shapiro pdf  
 
-##Even More Damn Linear Algebra
-A Collection of Notes on Numerical Linear Algebra by Robert A. van de Geijn pdf (optional donation to the author on his website)  
-Numerical Linear Algebra by Lloyd N. Trefethen, David Bau, III Google Books  
+ ##Even More Damn Linear Algebra
+ A Collection of Notes on Numerical Linear Algebra by Robert A. van de Geijn pdf (optional donation to the author on his website)  
+ Numerical Linear Algebra by Lloyd N. Trefethen, David Bau, III Google Books  
 
 ##Probability and Statistics
 Introduction to Probability by Charles M. Grinstead and Laurie Snellpdf  
