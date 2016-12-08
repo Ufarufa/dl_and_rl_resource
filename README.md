@@ -40,6 +40,7 @@
 - [KAIST_Corpus](http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus)
 
 ###Posting
+- [The Brain Tech to Merge Humans and AI Is Already Being Developed](http://singularityhub.com/2016/12/05/the-brain-tech-to-merge-humans-and-ai-is-already-being-developed/)
 - [A top Google researcher talks about increasingly intelligent computers-jeff-dean](http://fortune.com/2016/11/26/google-artificial-intelligence-jeff-dean/)
 - [Model based ML](http://mbmlbook.com/index.html)
 - [Deep Learning the Stock Market](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02#.pi425qopy)
