@@ -128,6 +128,7 @@ inception-v3 기반으로 이미지넷 기반 선학습된 모델을 사용, 당
 - [distributed-tensorflow](https://tensorflowkorea.wordpress.com/2016/07/17/distributed-tensorflow-design-patterns-and-best-practices/)
 
 ###Lecture
+- [NLP: Everyday, Analytical & Unusual Uses](http://www.allanalytics.com/document.asp?doc_id=260387)
 - [ML Book- By andrew Ag](https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_01.pdf)
 - sung kim - https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
 - CS231n: [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) / [Video](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) /[강의 노트 한글](http://ishuca.tistory.com/category/CS231n)
@@ -149,6 +150,8 @@ creative-applications-of-deep-learning-with-TF](https://www.kadenze.com/courses/
 
  
 ###Papers
+- [Photorealistic Facial Texture Inference Using Deep Neural Networks](https://arxiv.org/abs/1612.00523v1)
+  - Researcher Hao Li, Shunsuke Saito , Lingyu Wei , Koki Nagano, and Liwen Hu wanted to create super-detailed face models without the need for professional lighting or even a full photo.Face mapping at this level usually requires a series of photos in ideal lighting to make sure you get all the curves,angles, and asymmetries of the face.The researcher relied on an extensive "face database" to make smart inferences on the finer detail of the face.Neural networks create the face by filtering through a network of possible textures before scanning and then blending the pertinent facial features and skin tones.
 - [SamepleRNN-ICLR2017-Gen Audio ](https://github.com/soroushmehr/sampleRNN_ICLR2017)
 - [Neural Network-based Automatic Image Colorization](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/en/)
 - [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167)
