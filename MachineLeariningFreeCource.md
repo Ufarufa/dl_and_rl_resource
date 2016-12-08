@@ -1,3 +1,5 @@
+source : http://www.kdnuggets.com/2016/06/open-source-machine-learning-degree.html#.WEjoBR4xA4Q.facebook
+
 ##Mathematics
 - Calculus
   - Calculus by Gilbert Strang [pdf](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)
