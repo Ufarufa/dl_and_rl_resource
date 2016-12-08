@@ -240,6 +240,9 @@ AdaNet이나 Collaborative Layer-wise Discriminative Learning 같은 경우는 s
 - [Node.js by MS](https://mva.microsoft.com/en-US/training-courses/using-nodejs-with-visual-studio-code-13920?l=nSEpCdzbB_001937557)
 - [neural-networks-and-tensorflow-introduction](https://tensorflowkorea.wordpress.com/2016/08/23/dl-with-neural-networks-and-tensorflow-introduction/)
 - [R에서 파이썬까지…데이터과학 학습 사이트 8곳](http://www.bloter.net/archives/237013?rccode=lvRc)
+- [Open sourcing the Embedding Projector: a tool for visualizing high dimensional data]
+  - [Google R&D Blog](https://research.googleblog.com/2016/12/open-sourcing-embedding-projector-tool.html?m=1)
+  - [Paper](https://arxiv.org/pdf/1611.05469v1.pdf)
 - [Artificial Intelligence Open Network](http://ai-on.org/projects/)
  - [github](https://github.com/AI-ON/ai-on.org)
 
