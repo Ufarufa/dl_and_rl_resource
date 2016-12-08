@@ -1,9 +1,9 @@
 ##Mathematics
 - Calculus
-  - Calculus by Gilbert Strang pdf
+  - Calculus by Gilbert Strang [pdf](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)
 
 - Linear Algebra
-  - Linear Algebra by Jim Hefferon pdf
+  - Linear Algebra by Jim Hefferon [pdf](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)
 
 - More Linear Algebra
   - Linear Algebra Done Right by Sheldon Axler pdf  
