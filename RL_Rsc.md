@@ -77,6 +77,7 @@
   - [Deep Reinforcement Learning Workshop, NIPS 2016](https://sites.google.com/site/deeprlnips2016/)
   - [Generative Adversarial Networks (GANs) tutorial](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)
   - [Deep	Reinforcement	Learning through Policy Optimiztion-Jhon schulman](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-policy-optimization-Schulman-Abbeel.pdf)
+  - [NIPS 2016 Generative Adversarial Training workshop talk](http://www.nowozin.net/sebastian/blog/nips-2016-generative-adversarial-training-workshop-talk.html)
   - [NIPS-KeyNotes Yann Le Cun](https://drive.google.com/file/d/0BxKBnD5y2M8NREZod0tVdW5FLTQ/view)
     - I made the following main points:  
 >1. supervised learning works well if you have lots of labeled data  
