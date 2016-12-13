@@ -28,6 +28,9 @@
   - [generative-models](https://openai.com/blog/generative-models/)
   - [Hyper NetWorks-손글씨 인식 에제](http://blog.otoro.net/2016/09/28/hyper-networks/)
   
+###DataSet 
+- [Datasets for Machine Learning List](https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw/edit#gid=0)  
+
 ###Project
 - Magenta 
   - [Google Magenta(작곡 딥러닝)](https://tensorflowkorea.wordpress.com/2016/07/11/magentas-paper-reviews/)
@@ -226,6 +229,7 @@ AdaNet이나 Collaborative Layer-wise Discriminative Learning 같은 경우는 s
 - [Caption Gen, slide Shaer](http://www.slideshare.net/ssuser06e0c5/a-neural-image-caption-generator)
 - [Papers implemented By Tensorflow](https://github.com/LeavesBreathe/tensorflow_with_latest_papers)
 - [fast waveNet 구현](https://github.com/tomlepaine/fast-wavenet)
+- [ML_Practice with TensorFlow-Korean](https://github.com/proauto/ML_Practice)
 
 
 ###Python & tensorflow
