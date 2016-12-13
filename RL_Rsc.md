@@ -10,6 +10,7 @@
 - Gym
 
 ###Lecture & Books
+- [The Nuts and Bolts of Deep RL Research-NIPS2016- Schulman](http://rll.berkeley.edu/deeprlcourse/docs/nuts-and-bolts.pdf)
 - [CS188 2013](https://www.youtube.com/user/CS188Spring2013)
 - [CS188 2014](https://www.youtube.com/watch?v=IXuHxkpO5E8)
 - [CS188 2016](https://www.youtube.com/watch?v=3aCn2-Slaoc&list=PLIeooNSdhQE5kRrB71yu5yP9BRCJCSbMt)
@@ -31,7 +32,8 @@
   - [Demis Hassabis discusses his vision ](https://www.youtube.com/watch?v=iHrn2zLFh8Y&index=41&list=WL)
 
 ### Posting
-
+- [Dissecting Reinforcement Learning-Part.1](https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html)
+- [AI Begins to Understand the 3-D World](https://www.technologyreview.com/s/603107/ai-begins-to-understand-the-3-d-world/)
 - [딥러닝과 강화 학습으로 나보다 잘하는 쿠키런 AI 구현하기-동강](http://serviceapi.rmcnmv.naver.com/flash/outKeyPlayer.nhn?vid=744982879C4B8D95A768185158158FA1F14E&outKey=V122a39972b8120461b33134a56dad62b1db97657ca107701108d134a56dad62b1db9&controlBarMovable=true&jsCallable=true&skinName=tvcast_white)
 - [awesome-starcraftAI](https://github.com/SKTBrain/awesome-starcraftAI)
 - Deep Mind blog
@@ -128,6 +130,7 @@ In parallel, the methods developed in the context of virtual environments, combi
   - [DeepMind-Nips2016 papers]
     - [part1](https://deepmind.com/blog/deepmind-papers-nips-part-1/)
     - [part2](https://deepmind.com/blog/deepmind-papers-nips-part-2/)
+    - [part3](https://deepmind.com/blog/deepmind-papers-nips-part-3/)
   - [LEARNING TO REINFORCEMENT LEARN](https://arxiv.org/pdf/1611.05763v1.pdf)
   - [ Agent의 내적 동인으로 '통제감'을 만들어 넣어 보여주고-Variational Intrinsic Control](https://arxiv.org/abs/1611.07507)
     - DeepMind의 새 AI 논문입니다. Agent의 내적 동인으로 '통제감'을 만들어 넣어 보여주고 있습니다. 영화 등에서 다루는 두려운 존재로서의 AI가 탄생 가능할 것 같다는 생각이 드는... 연구네요.
