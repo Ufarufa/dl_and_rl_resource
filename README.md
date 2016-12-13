@@ -28,9 +28,6 @@
   - [generative-models](https://openai.com/blog/generative-models/)
   - [Hyper NetWorks-손글씨 인식 에제](http://blog.otoro.net/2016/09/28/hyper-networks/)
   
-###DataSet 
-- [Datasets for Machine Learning List](https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw/edit#gid=0)  
-
 ###Project
 - Magenta 
   - [Google Magenta(작곡 딥러닝)](https://tensorflowkorea.wordpress.com/2016/07/11/magentas-paper-reviews/)
@@ -41,8 +38,11 @@
 - [google youtube video dataSet](https://research.googleblog.com/2016/09/announcing-youtube-8m-large-and-diverse.html)
 - [google image dataSet](https://tensorflowkorea.wordpress.com/2016/10/02/open-images-dataset/)
 - [KAIST_Corpus](http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus)
+- [Datasets for Machine Learning List](https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw/edit#gid=0)  
 
 ###Posting
+- [Nvidia- DL traing kit with Lecun](https://developer.nvidia.com/teaching-kits)
+- [Leading the New Era of Machine Intelligence](http://numenta.com/applications/)
 - [The Brain Tech to Merge Humans and AI Is Already Being Developed](http://singularityhub.com/2016/12/05/the-brain-tech-to-merge-humans-and-ai-is-already-being-developed/)
 - [A top Google researcher talks about increasingly intelligent computers-jeff-dean](http://fortune.com/2016/11/26/google-artificial-intelligence-jeff-dean/)
 - [Model based ML](http://mbmlbook.com/index.html)
@@ -131,6 +131,7 @@ inception-v3 기반으로 이미지넷 기반 선학습된 모델을 사용, 당
 - [distributed-tensorflow](https://tensorflowkorea.wordpress.com/2016/07/17/distributed-tensorflow-design-patterns-and-best-practices/)
 
 ###Lecture
+- [Open Source Deep Learning Curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum)
 - [NLP: Everyday, Analytical & Unusual Uses](http://www.allanalytics.com/document.asp?doc_id=260387)
 - [ML Book- By andrew Ag](https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_01.pdf)
 - sung kim - https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
@@ -153,6 +154,7 @@ creative-applications-of-deep-learning-with-TF](https://www.kadenze.com/courses/
 
  
 ###Papers
+- [Generative Shape Models: Joint Text Recognition and Segmentation with Very Little Training Data](https://arxiv.org/pdf/1611.02788.pdf)
 - [Photorealistic Facial Texture Inference Using Deep Neural Networks](https://arxiv.org/abs/1612.00523v1)
   - Researcher Hao Li, Shunsuke Saito , Lingyu Wei , Koki Nagano, and Liwen Hu wanted to create super-detailed face models without the need for professional lighting or even a full photo.Face mapping at this level usually requires a series of photos in ideal lighting to make sure you get all the curves,angles, and asymmetries of the face.The researcher relied on an extensive "face database" to make smart inferences on the finer detail of the face.Neural networks create the face by filtering through a network of possible textures before scanning and then blending the pertinent facial features and skin tones.
 - [SamepleRNN-ICLR2017-Gen Audio ](https://github.com/soroushmehr/sampleRNN_ICLR2017)
@@ -232,7 +234,11 @@ AdaNet이나 Collaborative Layer-wise Discriminative Learning 같은 경우는 s
 - [ML_Practice with TensorFlow-Korean](https://github.com/proauto/ML_Practice)
 
 
-###Python & tensorflow
+
+###Python & tensorflow & DL FrameWork
+- 조대협의 블로그
+    - [텐서플로우-#1 자료형의 이해](http://bcho.tistory.com/1150)
+- [tiny-dnn-deep learning framework in C++11](https://github.com/tiny-dnn/tiny-dnn)
 - [수학 & 딥러닝 블로그](http://blog.theeluwin.kr/)
 - [머신 러닝 배우기]
  - [aidenswmo-Korean](https://brunch.co.kr/@aidenswmo/2)
