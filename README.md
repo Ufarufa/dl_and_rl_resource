@@ -154,6 +154,7 @@ creative-applications-of-deep-learning-with-TF](https://www.kadenze.com/courses/
 
  
 ###Papers
+- [Fast and Provably Good Seedings for k-Means](https://las.inf.ethz.ch/files/bachem16fast.pdf)
 - [Generative Shape Models: Joint Text Recognition and Segmentation with Very Little Training Data](https://arxiv.org/pdf/1611.02788.pdf)
 - [Photorealistic Facial Texture Inference Using Deep Neural Networks](https://arxiv.org/abs/1612.00523v1)
   - Researcher Hao Li, Shunsuke Saito , Lingyu Wei , Koki Nagano, and Liwen Hu wanted to create super-detailed face models without the need for professional lighting or even a full photo.Face mapping at this level usually requires a series of photos in ideal lighting to make sure you get all the curves,angles, and asymmetries of the face.The researcher relied on an extensive "face database" to make smart inferences on the finer detail of the face.Neural networks create the face by filtering through a network of possible textures before scanning and then blending the pertinent facial features and skin tones.
