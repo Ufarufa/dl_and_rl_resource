@@ -126,6 +126,7 @@ In parallel, the methods developed in the context of virtual environments, combi
 - [Multi-Objective Deep Reinforcement Learning](https://arxiv.org/abs/1610.02707)
 - [Towards Deep Symbolic Reinforcement Learning](https://arxiv.org/pdf/1609.05518.pdf)
 - DeepMind Papers : https://deepmind.com/publications.html
+  - [Learning Deep Nearest Neighbor Representations Using Differentiable Boundary Trees](https://arxiv.org/abs/1702.08833)
   - [Learning to learn by gradient descent by gradient descent](https://arxiv.org/abs/1606.04474)
     - [imp in tensorFlow](https://github.com/deepmind/learning-to-learn)
   - [DeepMind-Nips2016 papers]
