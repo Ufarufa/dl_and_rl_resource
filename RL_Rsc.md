@@ -126,6 +126,8 @@ In parallel, the methods developed in the context of virtual environments, combi
 - [Multi-Objective Deep Reinforcement Learning](https://arxiv.org/abs/1610.02707)
 - [Towards Deep Symbolic Reinforcement Learning](https://arxiv.org/pdf/1609.05518.pdf)
 - DeepMind Papers : https://deepmind.com/publications.html
+  - [Neural Episodic Control->Rapid deep reinforcement learning using neural dictionaries](https://arxiv.org/pdf/1703.01988.pdf)
+  - [Count-Based Exploration with Neural Density Models->PixelCNN-based Intrinsic Motivation improves exploration in the hardest Atari games](https://arxiv.org/abs/1703.01310)
   - [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161)
   - [Understanding Synthetic Gradients and Decoupled Neural Interfaces](https://arxiv.org/abs/1703.00522)
   - [Learning Deep Nearest Neighbor Representations Using Differentiable Boundary Trees](https://arxiv.org/abs/1702.08833)
