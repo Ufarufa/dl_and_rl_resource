@@ -117,7 +117,7 @@ So, AI research labs do not work on games because they are frivolous. They work 
 In parallel, the methods developed in the context of virtual environments, combined with other research in computer perception, natural language processing, theoretical insights, and algorithmic advances, will enable us to develop dialogue agents, intelligent virtual assistants, all-knowing question-answering systems, and intelligent robots.  
 
 ###Paper
-
+- [*FAST REINFORCEMENT LEARNING VIA SLOW REINFORCEMENT LEARNING](https://arxiv.org/pdf/1611.02779.pdf)
 - Learn Mario playing : Evolving Neural Networks through Augmenting Topologies - http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf
 - Playing Atari : Playing Atari with Deep Reinforcement Learning(DQN) - http://arxiv.org/abs/1312.5602
 - Play FlappyBird( DQN imp ) - http://sarvagyavaish.github.io/FlappyBirdRL/
