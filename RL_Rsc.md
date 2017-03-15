@@ -32,11 +32,15 @@
   - [Demis Hassabis discusses his vision ](https://www.youtube.com/watch?v=iHrn2zLFh8Y&index=41&list=WL)
 
 ### Posting
+- [자바스크립트로 만드는 객체지향형 인공지능]https://www.facebook.com/groups/132184990601054/permalink/198511323968420/
+- [DEEP REINFORCEMENT LEARNING: AN OVERVIEW](https://arxiv.org/pdf/1701.07274.pdf)
+- [Introduction to Q-Learning](https://medium.com/@aneekdas/introduction-to-q-learning-88d1c4f2b49c#.w1at07ivb)
 - [Dissecting Reinforcement Learning-Part.1](https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html)
 - [AI Begins to Understand the 3-D World](https://www.technologyreview.com/s/603107/ai-begins-to-understand-the-3-d-world/)
 - [딥러닝과 강화 학습으로 나보다 잘하는 쿠키런 AI 구현하기-동강](http://serviceapi.rmcnmv.naver.com/flash/outKeyPlayer.nhn?vid=744982879C4B8D95A768185158158FA1F14E&outKey=V122a39972b8120461b33134a56dad62b1db97657ca107701108d134a56dad62b1db9&controlBarMovable=true&jsCallable=true&skinName=tvcast_white)
 - [awesome-starcraftAI](https://github.com/SKTBrain/awesome-starcraftAI)
 - Deep Mind blog
+    - [Enabling Continual Learning in Neural Networks](https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/)
     - [blog](https://deepmind.com/blog)
     - [reinforcement-learning-unsupervised-auxiliary-tasks](https://deepmind.com/blog/reinforcement-learning-unsupervised-auxiliary-tasks/)
         - [기사](http://m.news.naver.com/read.nhn?oid=092&aid=0002106658&sid1=105&mode=LSD)
