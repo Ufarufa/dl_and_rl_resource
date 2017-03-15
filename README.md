@@ -41,6 +41,7 @@
 - [Datasets for Machine Learning List](https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw/edit#gid=0)  
 
 ###Posting
+- [Baidu Deep Voice explained: Part 1 — the Inference Pipeline](https://medium.com/athelas/paper-1-baidus-deep-voice-675a323705df#.ki6qilj4b)
 - [Nvidia- DL traing kit with Lecun](https://developer.nvidia.com/teaching-kits)
 - [Leading the New Era of Machine Intelligence](http://numenta.com/applications/)
 - [The Brain Tech to Merge Humans and AI Is Already Being Developed](http://singularityhub.com/2016/12/05/the-brain-tech-to-merge-humans-and-ai-is-already-being-developed/)
