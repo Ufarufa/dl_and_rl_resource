@@ -41,6 +41,7 @@
 - [Datasets for Machine Learning List](https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw/edit#gid=0)  
 
 ###Posting
+- [*Google Brain’s new super fast and highly accurate AI: the Mixture of Experts Layer.](https://medium.com/@thoszymkowiak/google-brains-new-super-fast-and-highly-accurate-ai-the-mixture-of-experts-layer-dd3972c25663#.3quxaxy3n)
 - [Baidu Deep Voice explained: Part 1 — the Inference Pipeline](https://medium.com/athelas/paper-1-baidus-deep-voice-675a323705df#.ki6qilj4b)
 - [Nvidia- DL traing kit with Lecun](https://developer.nvidia.com/teaching-kits)
 - [Leading the New Era of Machine Intelligence](http://numenta.com/applications/)
