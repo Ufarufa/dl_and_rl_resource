@@ -130,6 +130,7 @@ In parallel, the methods developed in the context of virtual environments, combi
 - [Multi-Objective Deep Reinforcement Learning](https://arxiv.org/abs/1610.02707)
 - [Towards Deep Symbolic Reinforcement Learning](https://arxiv.org/pdf/1609.05518.pdf)
 - DeepMind Papers : https://deepmind.com/publications.html
+  - [*Data efficiency in deep reinforcement learning: Neural Episodic Control](https://theinformationageblog.wordpress.com/2017/03/15/data-efficiency-in-deep-reinforcement-learning-neural-episodic-control/)
   - [*Overcoming catastrophic forgetting in neural networks](http://www.pnas.org/content/early/2017/03/13/1611835114.full)
     - desc : https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/
   - [*Neural Episodic Control->Rapid deep reinforcement learning using neural dictionaries](https://arxiv.org/pdf/1703.01988.pdf)
