@@ -28,6 +28,8 @@
   - [generative-models](https://openai.com/blog/generative-models/)
   - [Hyper NetWorks-손글씨 인식 에제](http://blog.otoro.net/2016/09/28/hyper-networks/)
   
+ - GAN
+  - [Generative adversarial networks- KAKAO BRAIN](https://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091) 
 ###Project
 - Magenta 
   - [Google Magenta(작곡 딥러닝)](https://tensorflowkorea.wordpress.com/2016/07/11/magentas-paper-reviews/)
