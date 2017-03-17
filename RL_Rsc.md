@@ -134,6 +134,7 @@ In parallel, the methods developed in the context of virtual environments, combi
   - [*Overcoming catastrophic forgetting in neural networks](http://www.pnas.org/content/early/2017/03/13/1611835114.full)
     - desc : https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/
   - [*Neural Episodic Control->Rapid deep reinforcement learning using neural dictionaries](https://arxiv.org/pdf/1703.01988.pdf)
+    - [desc](https://www.technologyreview.com/s/603868/how-deepminds-memory-trick-helps-ai-learn-faster/)
   - [*Count-Based Exploration with Neural Density Models->PixelCNN-based Intrinsic Motivation improves exploration in the hardest Atari games](https://arxiv.org/abs/1703.01310)
   - [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161)
   - [Understanding Synthetic Gradients and Decoupled Neural Interfaces](https://arxiv.org/abs/1703.00522)
