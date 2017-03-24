@@ -163,6 +163,7 @@ creative-applications-of-deep-learning-with-TF](https://www.kadenze.com/courses/
 
  
 ###Papers
+- [Opening the Black Box of Deep Neural Networks via Information](https://arxiv.org/abs/1703.00810)
 - [Fast and Provably Good Seedings for k-Means](https://las.inf.ethz.ch/files/bachem16fast.pdf)
 - [Generative Shape Models: Joint Text Recognition and Segmentation with Very Little Training Data](https://arxiv.org/pdf/1611.02788.pdf)
 - [Photorealistic Facial Texture Inference Using Deep Neural Networks](https://arxiv.org/abs/1612.00523v1)
