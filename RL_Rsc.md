@@ -121,6 +121,9 @@ So, AI research labs do not work on games because they are frivolous. They work 
 In parallel, the methods developed in the context of virtual environments, combined with other research in computer perception, natural language processing, theoretical insights, and algorithmic advances, will enable us to develop dialogue agents, intelligent virtual assistants, all-knowing question-answering systems, and intelligent robots.  
 
 ###Paper
+- [*Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play](https://arxiv.org/abs/1703.05407)
+  - Agent Collabo .. very GOOD
+  - 오늘 제가 뽑은 논문은 FAIR와 NYU팀의 새로운 강화학습 접근방식입니다. A와 B라는 에이전트가 상호협조적인 작업을 진행해 가는데 있어서 특별한 supervising 이 없이 자신들의 작업구조를 적절한 리워드에 의해 만들어가는 것에 대한 내용. A가 가능한 액션의 세트를 제안하고, B는 이럴 마음데로 선택, 반복, 취소할 수 있도록 구조를 만드는데, 여기에 적절한 리워드 구조를 설정을 하는 것만으로 A와 B가 탐색의 방식을 자동으로 생성해 낸다는 ... 강화학습의 복수 에이전트 판이라고 할까요? 정말 상상하면 다 만들어지는 느낌. 조만간 N 수의 에이전트의 복수 목표를 달성하는 모델도 나올 것 같은 ... 역시 페이스북 FAIR 팀들도 대단하네요!
 - [*FAST REINFORCEMENT LEARNING VIA SLOW REINFORCEMENT LEARNING](https://arxiv.org/pdf/1611.02779.pdf)
 - Learn Mario playing : Evolving Neural Networks through Augmenting Topologies - http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf
 - Playing Atari : Playing Atari with Deep Reinforcement Learning(DQN) - http://arxiv.org/abs/1312.5602
