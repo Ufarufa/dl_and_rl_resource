@@ -32,6 +32,7 @@
   - [Demis Hassabis discusses his vision ](https://www.youtube.com/watch?v=iHrn2zLFh8Y&index=41&list=WL)
 
 ### Posting
+- [*The very basics of Reinforcement Learning](https://medium.com/@aneekdas/the-very-basics-of-reinforcement-learning-154f28a79071#.sfawx87dl)
 - [자바스크립트로 만드는 객체지향형 인공지능]https://www.facebook.com/groups/132184990601054/permalink/198511323968420/
 - [DEEP REINFORCEMENT LEARNING: AN OVERVIEW](https://arxiv.org/pdf/1701.07274.pdf)
 - [Introduction to Q-Learning](https://medium.com/@aneekdas/introduction-to-q-learning-88d1c4f2b49c#.w1at07ivb)
