@@ -12,6 +12,7 @@
 - https://twitter.com/karpathy
 - https://twitter.com/AdaptiveAgents
 - [논문 설명]https://github.com/karpathy/paper-notes
+- [the Morning paper](https://blog.acolyer.org/)
 
 ## Deep Learning
 ###Algorithm
