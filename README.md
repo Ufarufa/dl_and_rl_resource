@@ -20,6 +20,8 @@
   - Fast R-CNN
   - Mask R-CNN : https://arxiv.org/abs/1703.06870
   - [image-segmentation-hjcho](https://www.slideshare.net/HyungjooCho2/image-segmentation-hjcho)
+  - [YOLO9000](https://arxiv.org/pdf/1612.08242.pdf)
+    - [Korean Slide](http://www.modulabs.co.kr/DeepLAB_library/12796)
 - CNN
   - GoogLe Net ( using InceptionV3 )
     - [CodeLab-Google](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html?index=..%2F..%2Findex#0)
@@ -32,6 +34,7 @@
   - E2E ( end to end Memory )
   - [generative-models](https://openai.com/blog/generative-models/)
   - [Hyper NetWorks-손글씨 인식 에제](http://blog.otoro.net/2016/09/28/hyper-networks/)
+  - [Introduction For seq2seq](https://www.slideshare.net/HyeminAhn/introduction-for-seq2seqsequence-to-sequence-and-rnn)
   
  - GAN
   - [Generative adversarial networks- KAKAO BRAIN](https://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091) 
@@ -48,6 +51,7 @@
 - [Datasets for Machine Learning List](https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw/edit#gid=0)  
 
 ###Posting
+- [*텐서플로우(TensorFlow)를 이용해서 DeepDream 알고리즘 구현해보기](http://solarisailab.com/archives/535)
 - [*learning-to-communicate](https://openai.com/blog/learning-to-communicate/)
 - [*Google Brain’s new super fast and highly accurate AI: the Mixture of Experts Layer.](https://medium.com/@thoszymkowiak/google-brains-new-super-fast-and-highly-accurate-ai-the-mixture-of-experts-layer-dd3972c25663#.3quxaxy3n)
 - [Baidu Deep Voice explained: Part 1 — the Inference Pipeline](https://medium.com/athelas/paper-1-baidus-deep-voice-675a323705df#.ki6qilj4b)
